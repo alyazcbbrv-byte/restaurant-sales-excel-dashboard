@@ -1,0 +1,1001 @@
+transaction_id,order_date,location,order_type,menu_item,category,quantity,unit_price,order_total,customer_rating
+RST-30700,2024-01-01,Downtown Manhattan,Delivery,Pasta Primavera,Main,2,14.99,29.98,5
+RST-30476,2024-01-02,Coral Gables,Takeaway,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30661,2024-01-03,Upper West Side,Delivery,Chocolate Lava Cake,Dessert,1,11.99,11.99,3
+RST-30787,2024-01-04,Midtown East,Delivery,Apple Pie,Dessert,2,8.99,17.98,3
+RST-30143,2024-01-05,Austin South Congress,Dine-In,Iced Coffee,Beverage,2,5.99,11.98,4
+RST-30675,2024-01-06,Austin South Congress,Delivery,Tiramisu,Dessert,2,9.99,19.98,4
+RST-30474,2024-01-06,Lincoln Park,Takeaway,Fish & Chips,Main,2,17.99,35.98,5
+RST-30273,2024-01-06,Downtown Manhattan,Dine-In,Soup of the Day,Appetizer,2,8.99,17.98,3
+RST-30277,2024-01-07,Austin Downtown,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30768,2024-01-07,Coral Gables,Delivery,Smoothie,Beverage,2,6.99,13.98,3
+RST-30541,2024-01-07,Midtown East,Dine-In,NY Strip Steak,Main,2,32.99,65.98,2
+RST-30151,2024-01-08,Austin South Congress,Takeaway,Cheesecake,Dessert,2,10.99,21.98,5
+RST-30464,2024-01-09,Coral Gables,Dine-In,Tiramisu,Dessert,2,9.99,19.98,3
+RST-30328,2024-01-10,Chicago Loop,Delivery,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30310,2024-01-11,Upper West Side,Takeaway,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30060,2024-01-13,Austin South Congress,Dine-In,Mozzarella Sticks,Appetizer,3,10.99,32.97,4
+RST-30053,2024-01-13,Miami Beach,Takeaway,Bruschetta,Appetizer,3,11.99,35.97,4
+RST-30131,2024-01-13,Coral Gables,Dine-In,Chicken Parmesan,Main,3,18.99,56.97,3
+RST-30921,2024-01-14,Austin South Congress,Takeaway,BBQ Ribs,Main,1,22.99,22.99,3
+RST-30455,2024-01-14,Miami Beach,Dine-In,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30056,2024-01-15,Chicago Loop,Dine-In,Apple Pie,Dessert,1,8.99,8.99,5
+RST-30213,2024-01-15,Austin South Congress,Delivery,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30020,2024-01-16,Austin South Congress,Delivery,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30085,2024-01-18,Austin Downtown,Dine-In,Chicken Parmesan,Main,4,18.99,75.96,4
+RST-30906,2024-01-19,Coral Gables,Takeaway,NY Strip Steak,Main,2,32.99,65.98,5
+RST-30886,2024-01-19,Downtown Manhattan,Dine-In,Soup of the Day,Appetizer,2,8.99,17.98,2
+RST-30904,2024-01-19,Midtown East,Dine-In,Soup of the Day,Appetizer,2,8.99,17.98,3
+RST-30361,2024-01-20,Brooklyn Heights,Dine-In,Soup of the Day,Appetizer,4,8.99,35.96,5
+RST-30743,2024-01-20,Upper West Side,Dine-In,Cheesecake,Dessert,1,10.99,10.99,3
+RST-30293,2024-01-20,Brooklyn Heights,Dine-In,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30507,2024-01-20,Downtown Manhattan,Delivery,Ice Cream Sundae,Dessert,2,7.99,15.98,4
+RST-30473,2024-01-21,Upper West Side,Dine-In,Cheesecake,Dessert,2,10.99,21.98,3
+RST-30457,2024-01-23,Brooklyn Heights,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,4
+RST-30367,2024-01-25,Chicago Loop,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30383,2024-01-26,Midtown East,Delivery,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30537,2024-01-26,Upper West Side,Dine-In,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30023,2024-01-26,Miami Beach,Takeaway,Spring Rolls,Appetizer,3,9.99,29.97,4
+RST-30899,2024-01-28,Miami Beach,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,4
+RST-30940,2024-01-28,Miami Beach,Takeaway,Apple Pie,Dessert,4,8.99,35.96,5
+RST-30434,2024-01-28,Miami Beach,Takeaway,Cheesecake,Dessert,1,10.99,10.99,3
+RST-30900,2024-01-29,Downtown Manhattan,Takeaway,House Wine,Beverage,3,9.99,29.97,4
+RST-30245,2024-01-29,Austin Downtown,Delivery,Fish & Chips,Main,3,17.99,53.97,3
+RST-30759,2024-02-02,Chicago Loop,Delivery,Fresh Lemonade,Beverage,1,4.99,4.99,5
+RST-30524,2024-02-03,Upper West Side,Takeaway,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30825,2024-02-03,Downtown Manhattan,Takeaway,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30296,2024-02-05,Chicago Loop,Takeaway,Soup of the Day,Appetizer,1,8.99,8.99,3
+RST-30454,2024-02-06,Midtown East,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,2
+RST-30827,2024-02-06,Upper West Side,Delivery,Bruschetta,Appetizer,3,11.99,35.97,4
+RST-30549,2024-02-06,Miami Beach,Dine-In,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30841,2024-02-06,Chicago Loop,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,4
+RST-30533,2024-02-08,Downtown Manhattan,Delivery,Iced Coffee,Beverage,1,5.99,5.99,3
+RST-30444,2024-02-09,Austin Downtown,Dine-In,Apple Pie,Dessert,2,8.99,17.98,5
+RST-30901,2024-02-10,Downtown Manhattan,Dine-In,BBQ Ribs,Main,1,22.99,22.99,3
+RST-30659,2024-02-11,Austin Downtown,Delivery,Soup of the Day,Appetizer,1,8.99,8.99,4
+RST-30767,2024-02-12,Coral Gables,Dine-In,Fresh Lemonade,Beverage,1,4.99,4.99,4
+RST-30561,2024-02-14,Brooklyn Heights,Dine-In,Pasta Primavera,Main,1,14.99,14.99,2
+RST-30485,2024-02-15,Miami Beach,Takeaway,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30481,2024-02-17,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30381,2024-02-17,Chicago Loop,Dine-In,Caesar Salad,Appetizer,1,12.99,12.99,2
+RST-30013,2024-02-17,Upper West Side,Dine-In,Bruschetta,Appetizer,1,11.99,11.99,4
+RST-30120,2024-02-20,Austin Downtown,Delivery,Cheesecake,Dessert,1,10.99,10.99,5
+RST-30050,2024-02-21,Brooklyn Heights,Delivery,Spring Rolls,Appetizer,1,9.99,9.99,3
+RST-30244,2024-02-21,Brooklyn Heights,Dine-In,Buffalo Wings,Appetizer,2,14.99,29.98,2
+RST-30072,2024-02-21,Coral Gables,Takeaway,Mozzarella Sticks,Appetizer,1,10.99,10.99,5
+RST-30506,2024-02-22,Miami Beach,Takeaway,Buffalo Wings,Appetizer,1,14.99,14.99,5
+RST-30275,2024-02-24,Lincoln Park,Takeaway,Chicken Parmesan,Main,3,18.99,56.97,2
+RST-30403,2024-02-25,Upper West Side,Takeaway,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30994,2024-02-25,Downtown Manhattan,Takeaway,Burger Deluxe,Main,1,15.99,15.99,5
+RST-30029,2024-02-26,Austin South Congress,Takeaway,Caesar Salad,Appetizer,1,12.99,12.99,3
+RST-30720,2024-02-26,Brooklyn Heights,Dine-In,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30699,2024-02-27,Brooklyn Heights,Delivery,Buffalo Wings,Appetizer,1,14.99,14.99,5
+RST-30650,2024-02-28,Chicago Loop,Takeaway,Sparkling Water,Beverage,2,3.49,6.98,5
+RST-30161,2024-02-29,Brooklyn Heights,Delivery,Smoothie,Beverage,1,6.99,6.99,4
+RST-30694,2024-02-29,Midtown East,Delivery,Fresh Lemonade,Beverage,2,4.99,9.98,4
+RST-30986,2024-03-01,Chicago Loop,Dine-In,Grilled Salmon,Main,2,24.99,49.98,5
+RST-30377,2024-03-02,Lincoln Park,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30126,2024-03-02,Lincoln Park,Dine-In,Chocolate Lava Cake,Dessert,2,11.99,23.98,4
+RST-30849,2024-03-04,Austin South Congress,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30059,2024-03-04,Austin South Congress,Delivery,Mushroom Risotto,Main,3,16.99,50.97,5
+RST-30402,2024-03-04,Miami Beach,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30484,2024-03-05,Upper West Side,Dine-In,Fresh Lemonade,Beverage,2,4.99,9.98,5
+RST-30709,2024-03-07,Coral Gables,Delivery,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30063,2024-03-08,Chicago Loop,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30250,2024-03-08,Downtown Manhattan,Delivery,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30176,2024-03-08,Austin South Congress,Delivery,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30446,2024-03-08,Upper West Side,Takeaway,Chicken Parmesan,Main,3,18.99,56.97,5
+RST-30890,2024-03-09,Downtown Manhattan,Delivery,Fish & Chips,Main,1,17.99,17.99,2
+RST-30041,2024-03-10,Downtown Manhattan,Dine-In,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30529,2024-03-11,Chicago Loop,Dine-In,BBQ Ribs,Main,4,22.99,91.96,4
+RST-30401,2024-03-11,Austin South Congress,Takeaway,Mozzarella Sticks,Appetizer,2,10.99,21.98,4
+RST-30428,2024-03-12,Lincoln Park,Dine-In,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30295,2024-03-14,Chicago Loop,Delivery,Grilled Salmon,Main,2,24.99,49.98,4
+RST-30165,2024-03-14,Brooklyn Heights,Delivery,Apple Pie,Dessert,1,8.99,8.99,4
+RST-30801,2024-03-15,Upper West Side,Takeaway,Cheesecake,Dessert,2,10.99,21.98,4
+RST-30627,2024-03-15,Austin South Congress,Delivery,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30832,2024-03-15,Upper West Side,Delivery,Soup of the Day,Appetizer,2,8.99,17.98,4
+RST-30210,2024-03-16,Upper West Side,Takeaway,House Wine,Beverage,1,9.99,9.99,4
+RST-30113,2024-03-16,Downtown Manhattan,Delivery,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30453,2024-03-16,Austin Downtown,Delivery,Grilled Salmon,Main,1,24.99,24.99,1
+RST-30136,2024-03-17,Austin Downtown,Delivery,NY Strip Steak,Main,2,32.99,65.98,2
+RST-30185,2024-03-17,Austin South Congress,Delivery,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30215,2024-03-19,Coral Gables,Delivery,House Wine,Beverage,2,9.99,19.98,4
+RST-30880,2024-03-20,Miami Beach,Dine-In,Bruschetta,Appetizer,2,11.99,23.98,4
+RST-30351,2024-03-20,Lincoln Park,Delivery,Fish & Chips,Main,3,17.99,53.97,4
+RST-30615,2024-03-20,Upper West Side,Delivery,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30976,2024-03-21,Coral Gables,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,3
+RST-30313,2024-03-21,Coral Gables,Takeaway,Fresh Lemonade,Beverage,2,4.99,9.98,4
+RST-30099,2024-03-22,Coral Gables,Delivery,Caesar Salad,Appetizer,1,12.99,12.99,4
+RST-30517,2024-03-22,Coral Gables,Takeaway,Buffalo Wings,Appetizer,1,14.99,14.99,4
+RST-30492,2024-03-23,Austin South Congress,Dine-In,Iced Coffee,Beverage,2,5.99,11.98,3
+RST-30314,2024-03-23,Austin South Congress,Dine-In,Buffalo Wings,Appetizer,2,14.99,29.98,4
+RST-30068,2024-03-23,Coral Gables,Dine-In,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30740,2024-03-23,Midtown East,Dine-In,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30260,2024-03-23,Brooklyn Heights,Dine-In,Craft Beer,Beverage,1,7.99,7.99,4
+RST-30458,2024-03-24,Chicago Loop,Delivery,Spring Rolls,Appetizer,2,9.99,19.98,2
+RST-30828,2024-03-24,Miami Beach,Delivery,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30110,2024-03-25,Austin South Congress,Dine-In,Pasta Primavera,Main,1,14.99,14.99,4
+RST-30945,2024-03-27,Midtown East,Delivery,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30997,2024-03-28,Coral Gables,Takeaway,Burger Deluxe,Main,1,15.99,15.99,3
+RST-30048,2024-03-31,Downtown Manhattan,Delivery,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30362,2024-04-01,Miami Beach,Delivery,Fish & Chips,Main,3,17.99,53.97,4
+RST-30159,2024-04-03,Coral Gables,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30168,2024-04-04,Brooklyn Heights,Takeaway,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30780,2024-04-04,Chicago Loop,Dine-In,Fresh Lemonade,Beverage,4,4.99,19.96,3
+RST-30309,2024-04-05,Midtown East,Takeaway,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30345,2024-04-05,Austin Downtown,Delivery,Caesar Salad,Appetizer,1,12.99,12.99,5
+RST-30445,2024-04-05,Upper West Side,Dine-In,BBQ Ribs,Main,1,22.99,22.99,3
+RST-30590,2024-04-06,Brooklyn Heights,Delivery,Craft Beer,Beverage,3,7.99,23.97,4
+RST-30966,2024-04-06,Lincoln Park,Delivery,Pasta Primavera,Main,3,14.99,44.97,4
+RST-30652,2024-04-06,Brooklyn Heights,Takeaway,Fresh Lemonade,Beverage,2,4.99,9.98,5
+RST-30173,2024-04-07,Lincoln Park,Dine-In,Mozzarella Sticks,Appetizer,4,10.99,43.96,3
+RST-30651,2024-04-07,Upper West Side,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30855,2024-04-08,Chicago Loop,Dine-In,Apple Pie,Dessert,2,8.99,17.98,4
+RST-30783,2024-04-10,Austin South Congress,Dine-In,Buffalo Wings,Appetizer,2,14.99,29.98,4
+RST-30316,2024-04-11,Coral Gables,Delivery,Burger Deluxe,Main,3,15.99,47.97,4
+RST-30443,2024-04-12,Chicago Loop,Dine-In,Grilled Salmon,Main,1,24.99,24.99,5
+RST-30648,2024-04-12,Chicago Loop,Takeaway,Ice Cream Sundae,Dessert,3,7.99,23.97,4
+RST-30714,2024-04-12,Lincoln Park,Takeaway,Pasta Primavera,Main,3,14.99,44.97,4
+RST-30905,2024-04-13,Brooklyn Heights,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30687,2024-04-13,Downtown Manhattan,Dine-In,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30119,2024-04-14,Austin South Congress,Takeaway,Mushroom Risotto,Main,1,16.99,16.99,1
+RST-30146,2024-04-14,Austin South Congress,Dine-In,Burger Deluxe,Main,1,15.99,15.99,3
+RST-30144,2024-04-14,Coral Gables,Delivery,Buffalo Wings,Appetizer,4,14.99,59.96,3
+RST-30932,2024-04-14,Downtown Manhattan,Takeaway,Mozzarella Sticks,Appetizer,2,10.99,21.98,5
+RST-30803,2024-04-14,Chicago Loop,Delivery,Craft Beer,Beverage,3,7.99,23.97,4
+RST-30596,2024-04-14,Austin South Congress,Dine-In,Grilled Salmon,Main,3,24.99,74.97,2
+RST-30287,2024-04-15,Coral Gables,Takeaway,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30014,2024-04-15,Downtown Manhattan,Delivery,Craft Beer,Beverage,1,7.99,7.99,4
+RST-30447,2024-04-16,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,5
+RST-30067,2024-04-17,Coral Gables,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30942,2024-04-18,Upper West Side,Takeaway,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30817,2024-04-18,Miami Beach,Delivery,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30258,2024-04-19,Upper West Side,Dine-In,Smoothie,Beverage,2,6.99,13.98,5
+RST-30283,2024-04-19,Chicago Loop,Takeaway,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30961,2024-04-20,Downtown Manhattan,Takeaway,Buffalo Wings,Appetizer,1,14.99,14.99,3
+RST-30771,2024-04-21,Chicago Loop,Dine-In,BBQ Ribs,Main,2,22.99,45.98,5
+RST-30556,2024-04-21,Miami Beach,Dine-In,Fish & Chips,Main,1,17.99,17.99,2
+RST-30662,2024-04-21,Austin Downtown,Dine-In,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30934,2024-04-21,Downtown Manhattan,Dine-In,Smoothie,Beverage,1,6.99,6.99,4
+RST-30263,2024-04-23,Austin South Congress,Dine-In,Cheesecake,Dessert,1,10.99,10.99,3
+RST-30631,2024-04-24,Miami Beach,Delivery,Tiramisu,Dessert,1,9.99,9.99,2
+RST-30017,2024-04-27,Miami Beach,Delivery,Smoothie,Beverage,1,6.99,6.99,3
+RST-30895,2024-04-27,Midtown East,Takeaway,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30490,2024-04-28,Downtown Manhattan,Dine-In,Apple Pie,Dessert,2,8.99,17.98,4
+RST-30278,2024-05-02,Midtown East,Delivery,Sparkling Water,Beverage,2,3.49,6.98,5
+RST-30012,2024-05-03,Brooklyn Heights,Dine-In,NY Strip Steak,Main,1,32.99,32.99,3
+RST-30516,2024-05-05,Downtown Manhattan,Dine-In,Pasta Primavera,Main,1,14.99,14.99,2
+RST-30281,2024-05-05,Austin Downtown,Delivery,Fish & Chips,Main,3,17.99,53.97,5
+RST-30423,2024-05-06,Downtown Manhattan,Dine-In,Grilled Salmon,Main,3,24.99,74.97,5
+RST-30191,2024-05-06,Austin Downtown,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30996,2024-05-06,Coral Gables,Dine-In,Tiramisu,Dessert,3,9.99,29.97,3
+RST-30117,2024-05-06,Chicago Loop,Delivery,Smoothie,Beverage,2,6.99,13.98,4
+RST-30789,2024-05-07,Coral Gables,Takeaway,Pasta Primavera,Main,1,14.99,14.99,4
+RST-30339,2024-05-10,Brooklyn Heights,Delivery,Fish & Chips,Main,1,17.99,17.99,5
+RST-30729,2024-05-10,Miami Beach,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30124,2024-05-10,Lincoln Park,Dine-In,Buffalo Wings,Appetizer,1,14.99,14.99,3
+RST-30989,2024-05-11,Brooklyn Heights,Delivery,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30203,2024-05-11,Chicago Loop,Delivery,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30512,2024-05-12,Austin South Congress,Takeaway,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30557,2024-05-12,Miami Beach,Delivery,Pasta Primavera,Main,3,14.99,44.97,3
+RST-30027,2024-05-15,Chicago Loop,Dine-In,Apple Pie,Dessert,2,8.99,17.98,4
+RST-30578,2024-05-15,Miami Beach,Takeaway,Buffalo Wings,Appetizer,1,14.99,14.99,4
+RST-30576,2024-05-16,Austin South Congress,Delivery,Grilled Salmon,Main,3,24.99,74.97,2
+RST-30912,2024-05-17,Austin Downtown,Takeaway,Spring Rolls,Appetizer,1,9.99,9.99,2
+RST-30601,2024-05-17,Downtown Manhattan,Takeaway,Cheesecake,Dessert,3,10.99,32.97,5
+RST-30607,2024-05-17,Coral Gables,Dine-In,Caesar Salad,Appetizer,1,12.99,12.99,3
+RST-30525,2024-05-18,Downtown Manhattan,Takeaway,Mushroom Risotto,Main,3,16.99,50.97,4
+RST-30625,2024-05-18,Coral Gables,Delivery,Bruschetta,Appetizer,2,11.99,23.98,4
+RST-30569,2024-05-20,Midtown East,Dine-In,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30452,2024-05-20,Coral Gables,Delivery,Chocolate Lava Cake,Dessert,1,11.99,11.99,5
+RST-30100,2024-05-21,Coral Gables,Takeaway,Apple Pie,Dessert,1,8.99,8.99,2
+RST-30622,2024-05-23,Coral Gables,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,3
+RST-30384,2024-05-24,Brooklyn Heights,Dine-In,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30155,2024-05-25,Miami Beach,Takeaway,Fish & Chips,Main,1,17.99,17.99,3
+RST-30406,2024-05-25,Coral Gables,Delivery,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30577,2024-05-25,Austin South Congress,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30848,2024-05-26,Lincoln Park,Delivery,Sparkling Water,Beverage,3,3.49,10.47,4
+RST-30171,2024-05-26,Austin Downtown,Dine-In,Craft Beer,Beverage,1,7.99,7.99,5
+RST-30101,2024-05-26,Lincoln Park,Delivery,BBQ Ribs,Main,3,22.99,68.97,4
+RST-30007,2024-05-26,Miami Beach,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30558,2024-05-26,Chicago Loop,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,3
+RST-30785,2024-05-27,Downtown Manhattan,Delivery,Pasta Primavera,Main,2,14.99,29.98,3
+RST-30930,2024-05-27,Upper West Side,Dine-In,Smoothie,Beverage,4,6.99,27.96,4
+RST-30112,2024-05-28,Brooklyn Heights,Dine-In,Bruschetta,Appetizer,4,11.99,47.96,4
+RST-30536,2024-05-28,Chicago Loop,Delivery,BBQ Ribs,Main,3,22.99,68.97,5
+RST-30653,2024-05-29,Midtown East,Delivery,Apple Pie,Dessert,2,8.99,17.98,5
+RST-30608,2024-05-29,Upper West Side,Delivery,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30617,2024-05-30,Downtown Manhattan,Takeaway,Mozzarella Sticks,Appetizer,2,10.99,21.98,5
+RST-30336,2024-05-31,Upper West Side,Takeaway,NY Strip Steak,Main,3,32.99,98.97,4
+RST-30163,2024-05-31,Chicago Loop,Takeaway,Mozzarella Sticks,Appetizer,1,10.99,10.99,5
+RST-30654,2024-06-01,Midtown East,Delivery,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30883,2024-06-02,Lincoln Park,Dine-In,Mozzarella Sticks,Appetizer,4,10.99,43.96,4
+RST-30422,2024-06-02,Austin Downtown,Takeaway,Iced Coffee,Beverage,2,5.99,11.98,3
+RST-30134,2024-06-02,Brooklyn Heights,Delivery,Mushroom Risotto,Main,2,16.99,33.98,3
+RST-30074,2024-06-04,Chicago Loop,Delivery,Pasta Primavera,Main,1,14.99,14.99,4
+RST-30853,2024-06-04,Austin Downtown,Delivery,Burger Deluxe,Main,3,15.99,47.97,4
+RST-30897,2024-06-04,Austin Downtown,Takeaway,Pasta Primavera,Main,1,14.99,14.99,2
+RST-30756,2024-06-06,Downtown Manhattan,Dine-In,Tiramisu,Dessert,1,9.99,9.99,3
+RST-30704,2024-06-07,Midtown East,Dine-In,Pasta Primavera,Main,1,14.99,14.99,4
+RST-30845,2024-06-07,Upper West Side,Delivery,Burger Deluxe,Main,2,15.99,31.98,4
+RST-30788,2024-06-07,Upper West Side,Dine-In,Craft Beer,Beverage,1,7.99,7.99,3
+RST-30154,2024-06-07,Austin South Congress,Takeaway,Burger Deluxe,Main,2,15.99,31.98,1
+RST-30197,2024-06-08,Brooklyn Heights,Delivery,Buffalo Wings,Appetizer,2,14.99,29.98,2
+RST-30290,2024-06-09,Upper West Side,Dine-In,Iced Coffee,Beverage,1,5.99,5.99,5
+RST-30677,2024-06-10,Brooklyn Heights,Delivery,Buffalo Wings,Appetizer,2,14.99,29.98,4
+RST-30470,2024-06-11,Chicago Loop,Dine-In,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30489,2024-06-12,Coral Gables,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30702,2024-06-14,Lincoln Park,Takeaway,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30031,2024-06-14,Downtown Manhattan,Takeaway,Pasta Primavera,Main,2,14.99,29.98,5
+RST-30988,2024-06-15,Downtown Manhattan,Dine-In,Pasta Primavera,Main,2,14.99,29.98,5
+RST-30612,2024-06-15,Brooklyn Heights,Takeaway,Soup of the Day,Appetizer,3,8.99,26.97,4
+RST-30776,2024-06-16,Brooklyn Heights,Delivery,Buffalo Wings,Appetizer,2,14.99,29.98,5
+RST-30572,2024-06-16,Midtown East,Delivery,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30898,2024-06-16,Chicago Loop,Dine-In,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30553,2024-06-17,Downtown Manhattan,Delivery,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30954,2024-06-17,Chicago Loop,Dine-In,Iced Coffee,Beverage,3,5.99,17.97,4
+RST-30032,2024-06-19,Midtown East,Delivery,Grilled Salmon,Main,3,24.99,74.97,5
+RST-30230,2024-06-19,Downtown Manhattan,Delivery,NY Strip Steak,Main,3,32.99,98.97,5
+RST-30211,2024-06-20,Austin Downtown,Delivery,Sparkling Water,Beverage,2,3.49,6.98,5
+RST-30587,2024-06-22,Chicago Loop,Takeaway,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30477,2024-06-22,Austin South Congress,Dine-In,Craft Beer,Beverage,2,7.99,15.98,3
+RST-30629,2024-06-23,Lincoln Park,Dine-In,Buffalo Wings,Appetizer,2,14.99,29.98,5
+RST-30123,2024-06-23,Austin South Congress,Dine-In,Grilled Salmon,Main,2,24.99,49.98,5
+RST-30205,2024-06-23,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,5
+RST-30114,2024-06-24,Midtown East,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,4
+RST-30772,2024-06-25,Coral Gables,Dine-In,Pasta Primavera,Main,2,14.99,29.98,5
+RST-30535,2024-06-25,Coral Gables,Dine-In,Craft Beer,Beverage,1,7.99,7.99,1
+RST-30103,2024-06-26,Midtown East,Delivery,Fish & Chips,Main,1,17.99,17.99,5
+RST-30598,2024-06-26,Miami Beach,Delivery,Grilled Salmon,Main,1,24.99,24.99,5
+RST-30253,2024-06-26,Brooklyn Heights,Delivery,Soup of the Day,Appetizer,1,8.99,8.99,4
+RST-30808,2024-06-27,Chicago Loop,Takeaway,Pasta Primavera,Main,2,14.99,29.98,4
+RST-30236,2024-06-27,Downtown Manhattan,Delivery,Mushroom Risotto,Main,3,16.99,50.97,3
+RST-30544,2024-06-27,Brooklyn Heights,Takeaway,Mozzarella Sticks,Appetizer,2,10.99,21.98,4
+RST-30193,2024-06-28,Lincoln Park,Dine-In,Buffalo Wings,Appetizer,1,14.99,14.99,5
+RST-30004,2024-06-28,Lincoln Park,Delivery,Sparkling Water,Beverage,2,3.49,6.98,5
+RST-30814,2024-06-28,Midtown East,Delivery,Mushroom Risotto,Main,2,16.99,33.98,4
+RST-30863,2024-06-29,Coral Gables,Dine-In,Grilled Salmon,Main,3,24.99,74.97,3
+RST-30341,2024-06-29,Chicago Loop,Dine-In,Fresh Lemonade,Beverage,1,4.99,4.99,3
+RST-30792,2024-06-29,Lincoln Park,Takeaway,Apple Pie,Dessert,1,8.99,8.99,5
+RST-30658,2024-06-30,Downtown Manhattan,Takeaway,Fish & Chips,Main,1,17.99,17.99,5
+RST-30666,2024-06-30,Austin South Congress,Delivery,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30774,2024-07-04,Austin Downtown,Takeaway,Soup of the Day,Appetizer,3,8.99,26.97,3
+RST-30357,2024-07-05,Chicago Loop,Dine-In,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30326,2024-07-05,Austin South Congress,Takeaway,Fish & Chips,Main,3,17.99,53.97,5
+RST-30001,2024-07-05,Coral Gables,Delivery,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30736,2024-07-06,Lincoln Park,Dine-In,Fresh Lemonade,Beverage,1,4.99,4.99,5
+RST-30804,2024-07-06,Brooklyn Heights,Dine-In,Cheesecake,Dessert,1,10.99,10.99,3
+RST-30408,2024-07-06,Miami Beach,Delivery,NY Strip Steak,Main,2,32.99,65.98,5
+RST-30741,2024-07-06,Chicago Loop,Dine-In,Fish & Chips,Main,1,17.99,17.99,5
+RST-30175,2024-07-06,Brooklyn Heights,Delivery,Chicken Parmesan,Main,3,18.99,56.97,5
+RST-30069,2024-07-07,Austin Downtown,Dine-In,Grilled Salmon,Main,2,24.99,49.98,5
+RST-30969,2024-07-07,Chicago Loop,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,5
+RST-30555,2024-07-07,Midtown East,Takeaway,House Wine,Beverage,3,9.99,29.97,4
+RST-30993,2024-07-08,Austin South Congress,Dine-In,Burger Deluxe,Main,2,15.99,31.98,2
+RST-30914,2024-07-09,Coral Gables,Dine-In,BBQ Ribs,Main,3,22.99,68.97,4
+RST-30025,2024-07-11,Coral Gables,Dine-In,Bruschetta,Appetizer,2,11.99,23.98,4
+RST-30554,2024-07-13,Austin South Congress,Dine-In,Burger Deluxe,Main,3,15.99,47.97,4
+RST-30108,2024-07-13,Lincoln Park,Delivery,Craft Beer,Beverage,1,7.99,7.99,3
+RST-30520,2024-07-14,Upper West Side,Delivery,Burger Deluxe,Main,2,15.99,31.98,3
+RST-30413,2024-07-15,Miami Beach,Takeaway,BBQ Ribs,Main,1,22.99,22.99,2
+RST-30073,2024-07-15,Upper West Side,Dine-In,House Wine,Beverage,1,9.99,9.99,4
+RST-30705,2024-07-16,Downtown Manhattan,Dine-In,Chocolate Lava Cake,Dessert,2,11.99,23.98,5
+RST-30086,2024-07-16,Chicago Loop,Delivery,Smoothie,Beverage,4,6.99,27.96,5
+RST-30706,2024-07-17,Lincoln Park,Delivery,Buffalo Wings,Appetizer,1,14.99,14.99,4
+RST-30522,2024-07-17,Coral Gables,Dine-In,Pasta Primavera,Main,3,14.99,44.97,4
+RST-30251,2024-07-17,Midtown East,Takeaway,Chocolate Lava Cake,Dessert,2,11.99,23.98,4
+RST-30540,2024-07-17,Midtown East,Delivery,Craft Beer,Beverage,3,7.99,23.97,3
+RST-30952,2024-07-18,Brooklyn Heights,Dine-In,Chocolate Lava Cake,Dessert,2,11.99,23.98,3
+RST-30129,2024-07-19,Brooklyn Heights,Dine-In,Fish & Chips,Main,1,17.99,17.99,5
+RST-30923,2024-07-19,Lincoln Park,Delivery,Fish & Chips,Main,1,17.99,17.99,1
+RST-30246,2024-07-20,Downtown Manhattan,Delivery,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30128,2024-07-20,Coral Gables,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30475,2024-07-20,Coral Gables,Takeaway,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30399,2024-07-22,Downtown Manhattan,Takeaway,Soup of the Day,Appetizer,1,8.99,8.99,3
+RST-30592,2024-07-23,Midtown East,Delivery,Chicken Parmesan,Main,3,18.99,56.97,4
+RST-30711,2024-07-25,Austin South Congress,Dine-In,Pasta Primavera,Main,2,14.99,29.98,4
+RST-30896,2024-07-25,Upper West Side,Delivery,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30147,2024-07-25,Brooklyn Heights,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30417,2024-07-26,Upper West Side,Dine-In,Burger Deluxe,Main,2,15.99,31.98,5
+RST-30116,2024-07-27,Upper West Side,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30519,2024-07-30,Austin South Congress,Takeaway,Bruschetta,Appetizer,3,11.99,35.97,4
+RST-30571,2024-08-01,Downtown Manhattan,Delivery,Cheesecake,Dessert,3,10.99,32.97,5
+RST-30188,2024-08-03,Coral Gables,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30376,2024-08-03,Austin South Congress,Delivery,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30127,2024-08-03,Upper West Side,Delivery,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30514,2024-08-04,Brooklyn Heights,Dine-In,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30070,2024-08-05,Midtown East,Dine-In,Smoothie,Beverage,2,6.99,13.98,3
+RST-30708,2024-08-05,Austin South Congress,Dine-In,Buffalo Wings,Appetizer,3,14.99,44.97,5
+RST-30799,2024-08-06,Upper West Side,Delivery,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30943,2024-08-08,Lincoln Park,Delivery,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30723,2024-08-09,Coral Gables,Delivery,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30366,2024-08-09,Midtown East,Dine-In,Fish & Chips,Main,1,17.99,17.99,5
+RST-30892,2024-08-09,Brooklyn Heights,Delivery,Tiramisu,Dessert,3,9.99,29.97,5
+RST-30548,2024-08-09,Coral Gables,Takeaway,Tiramisu,Dessert,1,9.99,9.99,5
+RST-30071,2024-08-09,Midtown East,Delivery,Fresh Lemonade,Beverage,1,4.99,4.99,4
+RST-30911,2024-08-11,Brooklyn Heights,Delivery,Buffalo Wings,Appetizer,1,14.99,14.99,1
+RST-30876,2024-08-11,Brooklyn Heights,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30200,2024-08-16,Coral Gables,Dine-In,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30545,2024-08-17,Brooklyn Heights,Takeaway,Bruschetta,Appetizer,1,11.99,11.99,5
+RST-30030,2024-08-19,Chicago Loop,Delivery,Chicken Parmesan,Main,3,18.99,56.97,4
+RST-30261,2024-08-20,Austin Downtown,Dine-In,Chocolate Lava Cake,Dessert,2,11.99,23.98,4
+RST-30937,2024-08-20,Coral Gables,Dine-In,House Wine,Beverage,3,9.99,29.97,3
+RST-30846,2024-08-20,Upper West Side,Delivery,Bruschetta,Appetizer,2,11.99,23.98,4
+RST-30606,2024-08-22,Coral Gables,Takeaway,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30984,2024-08-22,Miami Beach,Dine-In,Pasta Primavera,Main,2,14.99,29.98,5
+RST-30603,2024-08-25,Downtown Manhattan,Delivery,Mozzarella Sticks,Appetizer,3,10.99,32.97,3
+RST-30315,2024-08-25,Miami Beach,Delivery,Fresh Lemonade,Beverage,2,4.99,9.98,3
+RST-30235,2024-08-25,Upper West Side,Takeaway,Mushroom Risotto,Main,1,16.99,16.99,3
+RST-30109,2024-08-25,Brooklyn Heights,Delivery,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30902,2024-08-26,Lincoln Park,Takeaway,Apple Pie,Dessert,2,8.99,17.98,5
+RST-30746,2024-08-27,Brooklyn Heights,Dine-In,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30419,2024-08-28,Lincoln Park,Delivery,Fresh Lemonade,Beverage,1,4.99,4.99,1
+RST-30761,2024-08-29,Midtown East,Delivery,Caesar Salad,Appetizer,3,12.99,38.97,4
+RST-30440,2024-08-29,Upper West Side,Delivery,Tiramisu,Dessert,1,9.99,9.99,4
+RST-30286,2024-08-31,Coral Gables,Delivery,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30795,2024-09-01,Lincoln Park,Takeaway,Mushroom Risotto,Main,1,16.99,16.99,5
+RST-30348,2024-09-01,Coral Gables,Dine-In,Craft Beer,Beverage,1,7.99,7.99,3
+RST-30628,2024-09-01,Coral Gables,Dine-In,Chocolate Lava Cake,Dessert,2,11.99,23.98,3
+RST-30527,2024-09-01,Downtown Manhattan,Delivery,Fish & Chips,Main,2,17.99,35.98,3
+RST-30639,2024-09-01,Austin Downtown,Delivery,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30189,2024-09-03,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30594,2024-09-03,Coral Gables,Dine-In,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30916,2024-09-04,Brooklyn Heights,Dine-In,Chocolate Lava Cake,Dessert,4,11.99,47.96,3
+RST-30717,2024-09-04,Brooklyn Heights,Takeaway,Grilled Salmon,Main,1,24.99,24.99,5
+RST-30809,2024-09-04,Coral Gables,Dine-In,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30958,2024-09-05,Coral Gables,Dine-In,NY Strip Steak,Main,3,32.99,98.97,4
+RST-30857,2024-09-05,Austin Downtown,Dine-In,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30829,2024-09-06,Austin Downtown,Dine-In,Apple Pie,Dessert,1,8.99,8.99,4
+RST-30077,2024-09-06,Lincoln Park,Takeaway,Pasta Primavera,Main,2,14.99,29.98,4
+RST-30643,2024-09-07,Brooklyn Heights,Dine-In,BBQ Ribs,Main,2,22.99,45.98,2
+RST-30595,2024-09-07,Miami Beach,Delivery,Caesar Salad,Appetizer,4,12.99,51.96,5
+RST-30209,2024-09-08,Midtown East,Delivery,Mushroom Risotto,Main,1,16.99,16.99,5
+RST-30875,2024-09-08,Austin South Congress,Takeaway,Chicken Parmesan,Main,3,18.99,56.97,4
+RST-30791,2024-09-09,Coral Gables,Dine-In,Fish & Chips,Main,3,17.99,53.97,3
+RST-30140,2024-09-10,Austin South Congress,Takeaway,Sparkling Water,Beverage,3,3.49,10.47,4
+RST-30285,2024-09-14,Lincoln Park,Takeaway,Bruschetta,Appetizer,1,11.99,11.99,4
+RST-30504,2024-09-14,Downtown Manhattan,Delivery,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30395,2024-09-15,Miami Beach,Takeaway,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30078,2024-09-15,Upper West Side,Takeaway,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30528,2024-09-17,Chicago Loop,Dine-In,BBQ Ribs,Main,1,22.99,22.99,1
+RST-30052,2024-09-18,Upper West Side,Delivery,Mushroom Risotto,Main,1,16.99,16.99,3
+RST-30241,2024-09-18,Downtown Manhattan,Takeaway,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30620,2024-09-18,Coral Gables,Delivery,House Wine,Beverage,1,9.99,9.99,4
+RST-30137,2024-09-19,Coral Gables,Takeaway,Iced Coffee,Beverage,1,5.99,5.99,3
+RST-30169,2024-09-19,Downtown Manhattan,Takeaway,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30670,2024-09-19,Chicago Loop,Takeaway,Cheesecake,Dessert,1,10.99,10.99,3
+RST-30389,2024-09-20,Upper West Side,Dine-In,Fish & Chips,Main,3,17.99,53.97,5
+RST-30696,2024-09-20,Chicago Loop,Delivery,Ice Cream Sundae,Dessert,1,7.99,7.99,3
+RST-30806,2024-09-21,Coral Gables,Delivery,House Wine,Beverage,2,9.99,19.98,2
+RST-30082,2024-09-22,Coral Gables,Dine-In,Cheesecake,Dessert,3,10.99,32.97,4
+RST-30724,2024-09-22,Austin South Congress,Delivery,Caesar Salad,Appetizer,2,12.99,25.98,5
+RST-30002,2024-09-22,Chicago Loop,Takeaway,House Wine,Beverage,1,9.99,9.99,4
+RST-30760,2024-09-22,Lincoln Park,Dine-In,Mozzarella Sticks,Appetizer,3,10.99,32.97,5
+RST-30753,2024-09-25,Brooklyn Heights,Dine-In,Soup of the Day,Appetizer,3,8.99,26.97,5
+RST-30325,2024-09-25,Chicago Loop,Takeaway,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30915,2024-09-27,Coral Gables,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,2
+RST-30156,2024-09-28,Downtown Manhattan,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,2
+RST-30947,2024-09-28,Chicago Loop,Delivery,NY Strip Steak,Main,2,32.99,65.98,3
+RST-30083,2024-09-28,Miami Beach,Takeaway,Chicken Parmesan,Main,4,18.99,75.96,4
+RST-30407,2024-09-29,Austin Downtown,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,4
+RST-30707,2024-09-30,Downtown Manhattan,Takeaway,Craft Beer,Beverage,1,7.99,7.99,5
+RST-30058,2024-10-01,Austin South Congress,Delivery,Cheesecake,Dessert,3,10.99,32.97,4
+RST-30521,2024-10-03,Coral Gables,Takeaway,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30424,2024-10-03,Austin Downtown,Delivery,Chicken Parmesan,Main,1,18.99,18.99,2
+RST-30298,2024-10-04,Miami Beach,Delivery,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30240,2024-10-06,Austin South Congress,Dine-In,Apple Pie,Dessert,1,8.99,8.99,5
+RST-30045,2024-10-07,Brooklyn Heights,Dine-In,Mozzarella Sticks,Appetizer,2,10.99,21.98,5
+RST-30194,2024-10-07,Miami Beach,Dine-In,Fresh Lemonade,Beverage,1,4.99,4.99,3
+RST-30980,2024-10-07,Miami Beach,Dine-In,Apple Pie,Dessert,1,8.99,8.99,2
+RST-30054,2024-10-08,Austin Downtown,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30009,2024-10-10,Upper West Side,Dine-In,Grilled Salmon,Main,3,24.99,74.97,4
+RST-30597,2024-10-11,Austin Downtown,Dine-In,House Wine,Beverage,2,9.99,19.98,5
+RST-30139,2024-10-11,Austin South Congress,Takeaway,Smoothie,Beverage,1,6.99,6.99,4
+RST-30404,2024-10-13,Downtown Manhattan,Dine-In,Bruschetta,Appetizer,3,11.99,35.97,5
+RST-30713,2024-10-13,Coral Gables,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,5
+RST-30560,2024-10-13,Miami Beach,Takeaway,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30172,2024-10-13,Coral Gables,Dine-In,Iced Coffee,Beverage,2,5.99,11.98,5
+RST-30369,2024-10-15,Austin Downtown,Takeaway,Tiramisu,Dessert,3,9.99,29.97,3
+RST-30877,2024-10-16,Midtown East,Delivery,BBQ Ribs,Main,3,22.99,68.97,5
+RST-30036,2024-10-18,Austin South Congress,Dine-In,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30242,2024-10-18,Chicago Loop,Takeaway,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30924,2024-10-18,Midtown East,Delivery,NY Strip Steak,Main,2,32.99,65.98,2
+RST-30220,2024-10-19,Lincoln Park,Takeaway,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30510,2024-10-19,Lincoln Park,Delivery,Craft Beer,Beverage,1,7.99,7.99,4
+RST-30459,2024-10-19,Austin Downtown,Delivery,Sparkling Water,Beverage,1,3.49,3.49,4
+RST-30167,2024-10-19,Chicago Loop,Dine-In,Smoothie,Beverage,2,6.99,13.98,4
+RST-30436,2024-10-20,Austin South Congress,Dine-In,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30722,2024-10-20,Chicago Loop,Delivery,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30264,2024-10-21,Austin South Congress,Dine-In,Craft Beer,Beverage,3,7.99,23.97,5
+RST-30398,2024-10-22,Miami Beach,Dine-In,Spring Rolls,Appetizer,1,9.99,9.99,3
+RST-30460,2024-10-24,Brooklyn Heights,Delivery,Mushroom Risotto,Main,1,16.99,16.99,5
+RST-30416,2024-10-24,Coral Gables,Delivery,Pasta Primavera,Main,4,14.99,59.96,5
+RST-30712,2024-10-24,Brooklyn Heights,Takeaway,Cheesecake,Dessert,1,10.99,10.99,4
+RST-30441,2024-10-25,Midtown East,Dine-In,Fresh Lemonade,Beverage,1,4.99,4.99,2
+RST-30346,2024-10-25,Chicago Loop,Dine-In,Soup of the Day,Appetizer,2,8.99,17.98,4
+RST-30488,2024-10-26,Austin Downtown,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30431,2024-10-26,Coral Gables,Dine-In,Smoothie,Beverage,1,6.99,6.99,3
+RST-30820,2024-10-26,Austin South Congress,Delivery,Mushroom Risotto,Main,3,16.99,50.97,5
+RST-30879,2024-10-27,Austin Downtown,Dine-In,Fresh Lemonade,Beverage,2,4.99,9.98,4
+RST-30726,2024-10-27,Downtown Manhattan,Takeaway,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30782,2024-10-28,Miami Beach,Dine-In,Fish & Chips,Main,1,17.99,17.99,3
+RST-30223,2024-10-28,Midtown East,Dine-In,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30973,2024-10-29,Austin South Congress,Dine-In,Iced Coffee,Beverage,3,5.99,17.97,5
+RST-30364,2024-10-30,Downtown Manhattan,Dine-In,Smoothie,Beverage,3,6.99,20.97,2
+RST-30567,2024-10-31,Chicago Loop,Dine-In,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30092,2024-10-31,Austin South Congress,Delivery,House Wine,Beverage,4,9.99,39.96,4
+RST-30869,2024-11-01,Chicago Loop,Takeaway,Smoothie,Beverage,1,6.99,6.99,3
+RST-30573,2024-11-02,Midtown East,Dine-In,Cheesecake,Dessert,2,10.99,21.98,5
+RST-30107,2024-11-02,Downtown Manhattan,Dine-In,Ice Cream Sundae,Dessert,2,7.99,15.98,5
+RST-30035,2024-11-03,Midtown East,Takeaway,Cheesecake,Dessert,1,10.99,10.99,4
+RST-30087,2024-11-04,Downtown Manhattan,Dine-In,Fish & Chips,Main,2,17.99,35.98,4
+RST-30865,2024-11-08,Coral Gables,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30739,2024-11-08,Austin South Congress,Delivery,Cheesecake,Dessert,1,10.99,10.99,4
+RST-30265,2024-11-08,Upper West Side,Delivery,House Wine,Beverage,1,9.99,9.99,3
+RST-30505,2024-11-10,Lincoln Park,Delivery,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30182,2024-11-10,Upper West Side,Takeaway,Fresh Lemonade,Beverage,3,4.99,14.97,3
+RST-30812,2024-11-10,Austin Downtown,Delivery,Caesar Salad,Appetizer,3,12.99,38.97,5
+RST-30229,2024-11-10,Midtown East,Dine-In,BBQ Ribs,Main,2,22.99,45.98,3
+RST-30826,2024-11-11,Chicago Loop,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30830,2024-11-12,Miami Beach,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,5
+RST-30049,2024-11-13,Upper West Side,Dine-In,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30387,2024-11-14,Coral Gables,Dine-In,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30836,2024-11-14,Miami Beach,Takeaway,Burger Deluxe,Main,2,15.99,31.98,5
+RST-30232,2024-11-14,Lincoln Park,Dine-In,Chicken Parmesan,Main,3,18.99,56.97,4
+RST-30494,2024-11-15,Lincoln Park,Delivery,Fish & Chips,Main,1,17.99,17.99,5
+RST-30678,2024-11-15,Lincoln Park,Delivery,Grilled Salmon,Main,3,24.99,74.97,5
+RST-30610,2024-11-15,Chicago Loop,Delivery,Fish & Chips,Main,1,17.99,17.99,5
+RST-30420,2024-11-15,Brooklyn Heights,Dine-In,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30511,2024-11-16,Brooklyn Heights,Takeaway,Grilled Salmon,Main,2,24.99,49.98,3
+RST-30243,2024-11-16,Chicago Loop,Dine-In,Mozzarella Sticks,Appetizer,1,10.99,10.99,5
+RST-30421,2024-11-16,Midtown East,Takeaway,Fish & Chips,Main,2,17.99,35.98,5
+RST-30411,2024-11-16,Downtown Manhattan,Dine-In,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30066,2024-11-18,Chicago Loop,Delivery,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30308,2024-11-19,Brooklyn Heights,Dine-In,Caesar Salad,Appetizer,1,12.99,12.99,4
+RST-30644,2024-11-20,Coral Gables,Delivery,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30920,2024-11-20,Brooklyn Heights,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30198,2024-11-21,Midtown East,Dine-In,Smoothie,Beverage,4,6.99,27.96,3
+RST-30962,2024-11-21,Lincoln Park,Dine-In,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30344,2024-11-22,Midtown East,Takeaway,Buffalo Wings,Appetizer,1,14.99,14.99,3
+RST-30311,2024-11-23,Downtown Manhattan,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30632,2024-11-24,Austin South Congress,Delivery,Cheesecake,Dessert,1,10.99,10.99,3
+RST-30233,2024-11-24,Lincoln Park,Delivery,Bruschetta,Appetizer,2,11.99,23.98,4
+RST-30998,2024-11-24,Coral Gables,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30125,2024-11-25,Miami Beach,Dine-In,Smoothie,Beverage,2,6.99,13.98,4
+RST-30738,2024-11-25,Upper West Side,Dine-In,Smoothie,Beverage,2,6.99,13.98,1
+RST-30201,2024-11-29,Austin South Congress,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30805,2024-11-29,Coral Gables,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,3
+RST-30697,2024-11-29,Austin South Congress,Takeaway,Fresh Lemonade,Beverage,1,4.99,4.99,4
+RST-30178,2024-11-29,Coral Gables,Dine-In,Smoothie,Beverage,1,6.99,6.99,5
+RST-30204,2024-11-29,Downtown Manhattan,Delivery,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30257,2024-11-30,Miami Beach,Delivery,Mushroom Risotto,Main,2,16.99,33.98,4
+RST-30764,2024-11-30,Brooklyn Heights,Delivery,House Wine,Beverage,3,9.99,29.97,5
+RST-30959,2024-12-02,Downtown Manhattan,Delivery,Grilled Salmon,Main,3,24.99,74.97,4
+RST-30132,2024-12-03,Upper West Side,Dine-In,Pasta Primavera,Main,1,14.99,14.99,1
+RST-30765,2024-12-04,Lincoln Park,Takeaway,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30559,2024-12-05,Austin Downtown,Dine-In,Burger Deluxe,Main,2,15.99,31.98,4
+RST-30284,2024-12-07,Chicago Loop,Delivery,Mozzarella Sticks,Appetizer,3,10.99,32.97,4
+RST-30800,2024-12-08,Miami Beach,Dine-In,Buffalo Wings,Appetizer,3,14.99,44.97,3
+RST-30380,2024-12-09,Austin South Congress,Delivery,Sparkling Water,Beverage,1,3.49,3.49,4
+RST-30478,2024-12-10,Downtown Manhattan,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,3
+RST-30552,2024-12-10,Austin South Congress,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,5
+RST-30887,2024-12-11,Austin Downtown,Dine-In,Spring Rolls,Appetizer,1,9.99,9.99,5
+RST-30885,2024-12-12,Austin Downtown,Takeaway,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30748,2024-12-12,Midtown East,Delivery,Burger Deluxe,Main,3,15.99,47.97,3
+RST-30735,2024-12-13,Brooklyn Heights,Dine-In,Spring Rolls,Appetizer,1,9.99,9.99,5
+RST-30695,2024-12-13,Midtown East,Delivery,Smoothie,Beverage,3,6.99,20.97,2
+RST-30385,2024-12-14,Austin Downtown,Dine-In,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30498,2024-12-14,Upper West Side,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30918,2024-12-15,Lincoln Park,Dine-In,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30685,2024-12-17,Midtown East,Delivery,Burger Deluxe,Main,2,15.99,31.98,5
+RST-30038,2024-12-17,Miami Beach,Dine-In,Fish & Chips,Main,2,17.99,35.98,5
+RST-30822,2024-12-17,Brooklyn Heights,Delivery,Fish & Chips,Main,1,17.99,17.99,4
+RST-30513,2024-12-18,Miami Beach,Takeaway,Cheesecake,Dessert,4,10.99,43.96,5
+RST-30754,2024-12-19,Midtown East,Delivery,Chicken Parmesan,Main,3,18.99,56.97,5
+RST-30682,2024-12-20,Chicago Loop,Delivery,Caesar Salad,Appetizer,1,12.99,12.99,4
+RST-30499,2024-12-20,Coral Gables,Delivery,Buffalo Wings,Appetizer,2,14.99,29.98,5
+RST-30338,2024-12-20,Midtown East,Dine-In,Cheesecake,Dessert,4,10.99,43.96,4
+RST-30479,2024-12-21,Brooklyn Heights,Takeaway,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30872,2024-12-21,Austin South Congress,Delivery,Buffalo Wings,Appetizer,2,14.99,29.98,4
+RST-30674,2024-12-21,Downtown Manhattan,Dine-In,NY Strip Steak,Main,4,32.99,131.96,5
+RST-30334,2024-12-22,Miami Beach,Takeaway,Tiramisu,Dessert,2,9.99,19.98,5
+RST-30732,2024-12-22,Miami Beach,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,3
+RST-30019,2024-12-22,Midtown East,Dine-In,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30978,2024-12-25,Austin South Congress,Dine-In,Tiramisu,Dessert,1,9.99,9.99,3
+RST-30225,2024-12-25,Downtown Manhattan,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30216,2024-12-26,Austin South Congress,Takeaway,Fresh Lemonade,Beverage,1,4.99,4.99,4
+RST-30495,2024-12-26,Coral Gables,Takeaway,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30022,2024-12-27,Chicago Loop,Dine-In,House Wine,Beverage,1,9.99,9.99,5
+RST-30254,2024-12-27,Coral Gables,Dine-In,Burger Deluxe,Main,2,15.99,31.98,5
+RST-30301,2024-12-28,Upper West Side,Takeaway,BBQ Ribs,Main,3,22.99,68.97,5
+RST-30010,2024-12-28,Austin South Congress,Dine-In,Caesar Salad,Appetizer,1,12.99,12.99,3
+RST-30588,2024-12-28,Chicago Loop,Delivery,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30080,2024-12-29,Upper West Side,Delivery,Smoothie,Beverage,2,6.99,13.98,5
+RST-30657,2024-12-30,Austin South Congress,Takeaway,Fish & Chips,Main,1,17.99,17.99,4
+RST-30835,2024-12-31,Lincoln Park,Dine-In,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30731,2025-01-01,Austin Downtown,Delivery,Fish & Chips,Main,1,17.99,17.99,5
+RST-30199,2025-01-02,Lincoln Park,Takeaway,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30174,2025-01-03,Upper West Side,Delivery,Mushroom Risotto,Main,1,16.99,16.99,5
+RST-30623,2025-01-03,Brooklyn Heights,Takeaway,Soup of the Day,Appetizer,2,8.99,17.98,5
+RST-30269,2025-01-04,Lincoln Park,Takeaway,Tiramisu,Dessert,4,9.99,39.96,4
+RST-30751,2025-01-04,Downtown Manhattan,Dine-In,Pasta Primavera,Main,1,14.99,14.99,1
+RST-30842,2025-01-05,Chicago Loop,Delivery,Buffalo Wings,Appetizer,2,14.99,29.98,4
+RST-30891,2025-01-05,Austin South Congress,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,4
+RST-30866,2025-01-06,Upper West Side,Dine-In,House Wine,Beverage,2,9.99,19.98,3
+RST-30928,2025-01-07,Austin South Congress,Takeaway,BBQ Ribs,Main,1,22.99,22.99,3
+RST-30437,2025-01-09,Coral Gables,Dine-In,NY Strip Steak,Main,4,32.99,131.96,3
+RST-30181,2025-01-11,Austin South Congress,Takeaway,Cheesecake,Dessert,2,10.99,21.98,5
+RST-30985,2025-01-11,Brooklyn Heights,Dine-In,Caesar Salad,Appetizer,1,12.99,12.99,3
+RST-30878,2025-01-13,Downtown Manhattan,Delivery,Fresh Lemonade,Beverage,2,4.99,9.98,2
+RST-30665,2025-01-15,Brooklyn Heights,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30227,2025-01-15,Downtown Manhattan,Dine-In,NY Strip Steak,Main,2,32.99,65.98,5
+RST-30075,2025-01-15,Upper West Side,Dine-In,Mushroom Risotto,Main,3,16.99,50.97,4
+RST-30663,2025-01-15,Chicago Loop,Takeaway,Grilled Salmon,Main,2,24.99,49.98,3
+RST-30184,2025-01-18,Miami Beach,Takeaway,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30363,2025-01-19,Austin Downtown,Takeaway,Fish & Chips,Main,2,17.99,35.98,4
+RST-30861,2025-01-19,Austin South Congress,Delivery,Burger Deluxe,Main,4,15.99,63.96,4
+RST-30824,2025-01-19,Chicago Loop,Dine-In,Fresh Lemonade,Beverage,2,4.99,9.98,3
+RST-30938,2025-01-21,Upper West Side,Dine-In,Sparkling Water,Beverage,3,3.49,10.47,4
+RST-30354,2025-01-21,Downtown Manhattan,Delivery,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30728,2025-01-21,Upper West Side,Takeaway,Fish & Chips,Main,2,17.99,35.98,5
+RST-30838,2025-01-22,Midtown East,Delivery,Tiramisu,Dessert,1,9.99,9.99,3
+RST-30645,2025-01-23,Austin Downtown,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30304,2025-01-24,Coral Gables,Takeaway,Grilled Salmon,Main,3,24.99,74.97,4
+RST-30062,2025-01-24,Midtown East,Delivery,Smoothie,Beverage,2,6.99,13.98,4
+RST-30177,2025-01-24,Austin South Congress,Dine-In,Ice Cream Sundae,Dessert,2,7.99,15.98,4
+RST-30972,2025-01-24,Lincoln Park,Takeaway,Cheesecake,Dessert,4,10.99,43.96,4
+RST-30098,2025-01-25,Chicago Loop,Dine-In,Ice Cream Sundae,Dessert,2,7.99,15.98,3
+RST-30448,2025-01-25,Coral Gables,Dine-In,Pasta Primavera,Main,1,14.99,14.99,2
+RST-30463,2025-01-26,Chicago Loop,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,4
+RST-30860,2025-01-26,Lincoln Park,Dine-In,Pasta Primavera,Main,1,14.99,14.99,3
+RST-30064,2025-01-27,Austin South Congress,Takeaway,Burger Deluxe,Main,1,15.99,15.99,2
+RST-30616,2025-01-31,Downtown Manhattan,Delivery,Grilled Salmon,Main,2,24.99,49.98,4
+RST-30130,2025-01-31,Downtown Manhattan,Takeaway,Iced Coffee,Beverage,4,5.99,23.96,4
+RST-30796,2025-01-31,Downtown Manhattan,Dine-In,Fish & Chips,Main,1,17.99,17.99,4
+RST-30297,2025-01-31,Lincoln Park,Dine-In,NY Strip Steak,Main,3,32.99,98.97,3
+RST-30823,2025-01-31,Austin South Congress,Dine-In,Grilled Salmon,Main,2,24.99,49.98,5
+RST-30790,2025-02-01,Downtown Manhattan,Delivery,Apple Pie,Dessert,1,8.99,8.99,1
+RST-30786,2025-02-02,Midtown East,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,3
+RST-30289,2025-02-03,Chicago Loop,Delivery,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30698,2025-02-03,Midtown East,Dine-In,Fish & Chips,Main,1,17.99,17.99,4
+RST-30664,2025-02-06,Austin South Congress,Takeaway,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30372,2025-02-07,Upper West Side,Delivery,House Wine,Beverage,4,9.99,39.96,4
+RST-30532,2025-02-07,Austin Downtown,Dine-In,Smoothie,Beverage,1,6.99,6.99,4
+RST-30970,2025-02-07,Austin South Congress,Dine-In,Craft Beer,Beverage,1,7.99,7.99,5
+RST-30095,2025-02-08,Austin South Congress,Delivery,Smoothie,Beverage,1,6.99,6.99,5
+RST-30939,2025-02-08,Lincoln Park,Delivery,Fish & Chips,Main,1,17.99,17.99,5
+RST-30936,2025-02-08,Miami Beach,Dine-In,Pasta Primavera,Main,3,14.99,44.97,1
+RST-30262,2025-02-09,Austin South Congress,Takeaway,Mushroom Risotto,Main,1,16.99,16.99,5
+RST-30944,2025-02-09,Coral Gables,Takeaway,Cheesecake,Dessert,1,10.99,10.99,5
+RST-30279,2025-02-09,Midtown East,Takeaway,Fresh Lemonade,Beverage,2,4.99,9.98,4
+RST-30037,2025-02-09,Downtown Manhattan,Dine-In,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30259,2025-02-10,Austin Downtown,Delivery,Mushroom Risotto,Main,3,16.99,50.97,5
+RST-30710,2025-02-12,Downtown Manhattan,Dine-In,Caesar Salad,Appetizer,2,12.99,25.98,3
+RST-30630,2025-02-12,Austin Downtown,Delivery,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30867,2025-02-14,Brooklyn Heights,Delivery,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30228,2025-02-14,Upper West Side,Dine-In,Buffalo Wings,Appetizer,2,14.99,29.98,5
+RST-30483,2025-02-16,Coral Gables,Takeaway,Fresh Lemonade,Beverage,1,4.99,4.99,3
+RST-30166,2025-02-17,Brooklyn Heights,Takeaway,Apple Pie,Dessert,4,8.99,35.96,5
+RST-30133,2025-02-19,Coral Gables,Takeaway,Iced Coffee,Beverage,2,5.99,11.98,4
+RST-30530,2025-02-22,Chicago Loop,Takeaway,Burger Deluxe,Main,1,15.99,15.99,5
+RST-30356,2025-02-22,Coral Gables,Takeaway,BBQ Ribs,Main,2,22.99,45.98,5
+RST-30703,2025-02-22,Coral Gables,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30619,2025-02-23,Brooklyn Heights,Delivery,Fresh Lemonade,Beverage,1,4.99,4.99,5
+RST-30749,2025-02-23,Coral Gables,Takeaway,Mozzarella Sticks,Appetizer,1,10.99,10.99,3
+RST-30949,2025-02-23,Midtown East,Delivery,Sparkling Water,Beverage,1,3.49,3.49,4
+RST-30778,2025-02-24,Midtown East,Delivery,Caesar Salad,Appetizer,3,12.99,38.97,4
+RST-30646,2025-02-25,Downtown Manhattan,Dine-In,Fish & Chips,Main,2,17.99,35.98,5
+RST-30219,2025-02-25,Chicago Loop,Delivery,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30538,2025-02-27,Miami Beach,Takeaway,Mushroom Risotto,Main,2,16.99,33.98,5
+RST-30065,2025-02-27,Brooklyn Heights,Takeaway,Iced Coffee,Beverage,2,5.99,11.98,4
+RST-30115,2025-02-27,Austin South Congress,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,2
+RST-30412,2025-02-28,Brooklyn Heights,Takeaway,Burger Deluxe,Main,2,15.99,31.98,4
+RST-30649,2025-02-28,Lincoln Park,Dine-In,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30343,2025-02-28,Brooklyn Heights,Dine-In,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30963,2025-03-01,Upper West Side,Takeaway,NY Strip Steak,Main,2,32.99,65.98,3
+RST-30933,2025-03-01,Coral Gables,Delivery,Mushroom Risotto,Main,2,16.99,33.98,2
+RST-30526,2025-03-01,Austin South Congress,Delivery,NY Strip Steak,Main,1,32.99,32.99,3
+RST-30451,2025-03-02,Coral Gables,Dine-In,Fish & Chips,Main,2,17.99,35.98,1
+RST-30909,2025-03-02,Downtown Manhattan,Delivery,Craft Beer,Beverage,3,7.99,23.97,4
+RST-30605,2025-03-02,Chicago Loop,Dine-In,Craft Beer,Beverage,2,7.99,15.98,3
+RST-30158,2025-03-04,Chicago Loop,Dine-In,Craft Beer,Beverage,2,7.99,15.98,5
+RST-30047,2025-03-04,Downtown Manhattan,Dine-In,Bruschetta,Appetizer,2,11.99,23.98,5
+RST-30672,2025-03-04,Midtown East,Delivery,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30207,2025-03-05,Brooklyn Heights,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30349,2025-03-12,Lincoln Park,Takeaway,Mushroom Risotto,Main,4,16.99,67.96,4
+RST-30322,2025-03-13,Miami Beach,Dine-In,BBQ Ribs,Main,2,22.99,45.98,5
+RST-30721,2025-03-13,Downtown Manhattan,Dine-In,House Wine,Beverage,2,9.99,19.98,4
+RST-30770,2025-03-13,Upper West Side,Takeaway,Sparkling Water,Beverage,3,3.49,10.47,5
+RST-30329,2025-03-14,Upper West Side,Delivery,Burger Deluxe,Main,1,15.99,15.99,3
+RST-30609,2025-03-15,Miami Beach,Delivery,Soup of the Day,Appetizer,2,8.99,17.98,5
+RST-30637,2025-03-17,Lincoln Park,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30854,2025-03-17,Miami Beach,Dine-In,BBQ Ribs,Main,4,22.99,91.96,4
+RST-30312,2025-03-21,Lincoln Park,Dine-In,Craft Beer,Beverage,4,7.99,31.96,3
+RST-30332,2025-03-21,Lincoln Park,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30138,2025-03-22,Chicago Loop,Dine-In,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30183,2025-03-22,Austin South Congress,Delivery,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30762,2025-03-22,Downtown Manhattan,Dine-In,Mozzarella Sticks,Appetizer,1,10.99,10.99,3
+RST-30591,2025-03-23,Chicago Loop,Takeaway,Chocolate Lava Cake,Dessert,2,11.99,23.98,4
+RST-30583,2025-03-24,Chicago Loop,Takeaway,Chocolate Lava Cake,Dessert,1,11.99,11.99,5
+RST-30568,2025-03-25,Austin South Congress,Dine-In,Buffalo Wings,Appetizer,2,14.99,29.98,4
+RST-30482,2025-03-25,Upper West Side,Takeaway,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30515,2025-03-26,Miami Beach,Delivery,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30392,2025-03-26,Downtown Manhattan,Delivery,Apple Pie,Dessert,2,8.99,17.98,5
+RST-30927,2025-03-26,Midtown East,Takeaway,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30234,2025-03-27,Miami Beach,Takeaway,Sparkling Water,Beverage,1,3.49,3.49,2
+RST-30382,2025-03-28,Austin South Congress,Dine-In,Caesar Salad,Appetizer,1,12.99,12.99,2
+RST-30105,2025-03-28,Austin South Congress,Delivery,Craft Beer,Beverage,2,7.99,15.98,3
+RST-30564,2025-03-28,Downtown Manhattan,Delivery,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30570,2025-03-28,Midtown East,Dine-In,Bruschetta,Appetizer,1,11.99,11.99,4
+RST-30819,2025-03-28,Chicago Loop,Takeaway,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30614,2025-04-01,Downtown Manhattan,Delivery,Mushroom Risotto,Main,1,16.99,16.99,2
+RST-30373,2025-04-01,Austin Downtown,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,3
+RST-30716,2025-04-01,Brooklyn Heights,Delivery,Chicken Parmesan,Main,1,18.99,18.99,1
+RST-30613,2025-04-02,Miami Beach,Takeaway,Smoothie,Beverage,3,6.99,20.97,4
+RST-30979,2025-04-03,Chicago Loop,Delivery,Grilled Salmon,Main,1,24.99,24.99,1
+RST-30044,2025-04-03,Lincoln Park,Delivery,Cheesecake,Dessert,1,10.99,10.99,4
+RST-30374,2025-04-04,Downtown Manhattan,Takeaway,BBQ Ribs,Main,1,22.99,22.99,2
+RST-30410,2025-04-04,Austin Downtown,Takeaway,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30148,2025-04-05,Lincoln Park,Dine-In,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30276,2025-04-05,Miami Beach,Takeaway,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30149,2025-04-06,Lincoln Park,Delivery,Mushroom Risotto,Main,4,16.99,67.96,4
+RST-30319,2025-04-06,Downtown Manhattan,Dine-In,Smoothie,Beverage,4,6.99,27.96,4
+RST-30821,2025-04-06,Austin South Congress,Delivery,Fish & Chips,Main,1,17.99,17.99,3
+RST-30982,2025-04-06,Midtown East,Delivery,Chicken Parmesan,Main,2,18.99,37.98,1
+RST-30394,2025-04-06,Lincoln Park,Delivery,Smoothie,Beverage,3,6.99,20.97,4
+RST-30773,2025-04-07,Downtown Manhattan,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,3
+RST-30466,2025-04-08,Brooklyn Heights,Takeaway,Caesar Salad,Appetizer,3,12.99,38.97,5
+RST-30935,2025-04-08,Brooklyn Heights,Dine-In,Fish & Chips,Main,1,17.99,17.99,4
+RST-30671,2025-04-10,Miami Beach,Dine-In,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30288,2025-04-10,Lincoln Park,Takeaway,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30222,2025-04-12,Austin South Congress,Dine-In,Burger Deluxe,Main,1,15.99,15.99,5
+RST-30926,2025-04-13,Downtown Manhattan,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30096,2025-04-15,Downtown Manhattan,Takeaway,Mushroom Risotto,Main,2,16.99,33.98,3
+RST-30752,2025-04-16,Chicago Loop,Delivery,Chocolate Lava Cake,Dessert,2,11.99,23.98,5
+RST-30693,2025-04-18,Brooklyn Heights,Takeaway,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30239,2025-04-19,Downtown Manhattan,Delivery,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30467,2025-04-19,Midtown East,Dine-In,Mozzarella Sticks,Appetizer,3,10.99,32.97,3
+RST-30291,2025-04-19,Upper West Side,Delivery,Spring Rolls,Appetizer,1,9.99,9.99,4
+RST-30340,2025-04-19,Austin South Congress,Delivery,Craft Beer,Beverage,2,7.99,15.98,2
+RST-30179,2025-04-19,Upper West Side,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,3
+RST-30539,2025-04-20,Brooklyn Heights,Delivery,Fresh Lemonade,Beverage,1,4.99,4.99,4
+RST-30745,2025-04-20,Brooklyn Heights,Dine-In,Fresh Lemonade,Beverage,1,4.99,4.99,3
+RST-30003,2025-04-20,Midtown East,Takeaway,Soup of the Day,Appetizer,3,8.99,26.97,5
+RST-30882,2025-04-20,Coral Gables,Delivery,Mushroom Risotto,Main,2,16.99,33.98,5
+RST-30224,2025-04-21,Brooklyn Heights,Delivery,NY Strip Steak,Main,4,32.99,131.96,5
+RST-31000,2025-04-24,Lincoln Park,Dine-In,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30971,2025-04-26,Upper West Side,Takeaway,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30917,2025-04-28,Upper West Side,Delivery,BBQ Ribs,Main,3,22.99,68.97,4
+RST-30414,2025-04-29,Coral Gables,Dine-In,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30350,2025-05-01,Austin Downtown,Delivery,Bruschetta,Appetizer,1,11.99,11.99,3
+RST-30975,2025-05-02,Downtown Manhattan,Dine-In,Iced Coffee,Beverage,3,5.99,17.97,5
+RST-30725,2025-05-03,Miami Beach,Takeaway,BBQ Ribs,Main,2,22.99,45.98,4
+RST-30088,2025-05-03,Lincoln Park,Delivery,Iced Coffee,Beverage,2,5.99,11.98,5
+RST-30518,2025-05-04,Miami Beach,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,2
+RST-30681,2025-05-05,Downtown Manhattan,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,4
+RST-30011,2025-05-09,Coral Gables,Dine-In,Bruschetta,Appetizer,2,11.99,23.98,5
+RST-30388,2025-05-09,Chicago Loop,Dine-In,Caesar Salad,Appetizer,1,12.99,12.99,3
+RST-30358,2025-05-09,Brooklyn Heights,Takeaway,Mushroom Risotto,Main,2,16.99,33.98,4
+RST-30323,2025-05-09,Brooklyn Heights,Delivery,Pasta Primavera,Main,1,14.99,14.99,3
+RST-30781,2025-05-09,Midtown East,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30491,2025-05-10,Chicago Loop,Delivery,Iced Coffee,Beverage,2,5.99,11.98,4
+RST-30324,2025-05-11,Downtown Manhattan,Delivery,Iced Coffee,Beverage,1,5.99,5.99,4
+RST-30271,2025-05-11,Downtown Manhattan,Dine-In,Fish & Chips,Main,2,17.99,35.98,4
+RST-30433,2025-05-12,Midtown East,Takeaway,House Wine,Beverage,1,9.99,9.99,5
+RST-30449,2025-05-12,Coral Gables,Dine-In,NY Strip Steak,Main,2,32.99,65.98,5
+RST-30104,2025-05-14,Upper West Side,Takeaway,Smoothie,Beverage,1,6.99,6.99,5
+RST-30580,2025-05-15,Brooklyn Heights,Dine-In,Fresh Lemonade,Beverage,2,4.99,9.98,3
+RST-30006,2025-05-15,Downtown Manhattan,Delivery,Soup of the Day,Appetizer,1,8.99,8.99,3
+RST-30160,2025-05-16,Lincoln Park,Dine-In,Bruschetta,Appetizer,4,11.99,47.96,4
+RST-30718,2025-05-17,Chicago Loop,Delivery,Mushroom Risotto,Main,2,16.99,33.98,3
+RST-30611,2025-05-17,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,4
+RST-30636,2025-05-18,Austin Downtown,Dine-In,House Wine,Beverage,1,9.99,9.99,4
+RST-30868,2025-05-20,Downtown Manhattan,Dine-In,Burger Deluxe,Main,2,15.99,31.98,4
+RST-30486,2025-05-20,Coral Gables,Takeaway,Fish & Chips,Main,3,17.99,53.97,5
+RST-30508,2025-05-20,Miami Beach,Dine-In,Sparkling Water,Beverage,2,3.49,6.98,4
+RST-30039,2025-05-21,Chicago Loop,Takeaway,Bruschetta,Appetizer,3,11.99,35.97,4
+RST-30046,2025-05-23,Downtown Manhattan,Dine-In,Spring Rolls,Appetizer,1,9.99,9.99,5
+RST-30435,2025-05-24,Austin Downtown,Dine-In,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30221,2025-05-26,Lincoln Park,Dine-In,Mozzarella Sticks,Appetizer,4,10.99,43.96,5
+RST-30888,2025-05-28,Upper West Side,Dine-In,Buffalo Wings,Appetizer,1,14.99,14.99,5
+RST-30026,2025-05-29,Downtown Manhattan,Delivery,Ice Cream Sundae,Dessert,2,7.99,15.98,4
+RST-30719,2025-05-29,Downtown Manhattan,Dine-In,Iced Coffee,Beverage,3,5.99,17.97,5
+RST-30894,2025-05-29,Downtown Manhattan,Delivery,Mushroom Risotto,Main,1,16.99,16.99,2
+RST-30331,2025-05-29,Chicago Loop,Dine-In,Cheesecake,Dessert,2,10.99,21.98,4
+RST-30461,2025-05-30,Chicago Loop,Delivery,Smoothie,Beverage,1,6.99,6.99,5
+RST-30468,2025-05-30,Brooklyn Heights,Dine-In,Sparkling Water,Beverage,2,3.49,6.98,5
+RST-30960,2025-05-30,Coral Gables,Takeaway,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30471,2025-05-31,Austin South Congress,Dine-In,Grilled Salmon,Main,1,24.99,24.99,5
+RST-30856,2025-05-31,Downtown Manhattan,Dine-In,Sparkling Water,Beverage,2,3.49,6.98,2
+RST-30018,2025-05-31,Downtown Manhattan,Delivery,Mozzarella Sticks,Appetizer,1,10.99,10.99,5
+RST-30831,2025-06-01,Downtown Manhattan,Delivery,BBQ Ribs,Main,2,22.99,45.98,3
+RST-30500,2025-06-01,Chicago Loop,Dine-In,Burger Deluxe,Main,1,15.99,15.99,5
+RST-30061,2025-06-04,Miami Beach,Delivery,Chicken Parmesan,Main,3,18.99,56.97,4
+RST-30642,2025-06-05,Austin Downtown,Delivery,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30686,2025-06-06,Upper West Side,Delivery,Craft Beer,Beverage,2,7.99,15.98,5
+RST-30807,2025-06-07,Midtown East,Dine-In,Apple Pie,Dessert,4,8.99,35.96,4
+RST-30692,2025-06-08,Austin Downtown,Dine-In,NY Strip Steak,Main,4,32.99,131.96,5
+RST-30202,2025-06-09,Chicago Loop,Dine-In,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30496,2025-06-10,Austin Downtown,Delivery,Cheesecake,Dessert,1,10.99,10.99,4
+RST-30306,2025-06-13,Miami Beach,Delivery,Mozzarella Sticks,Appetizer,4,10.99,43.96,5
+RST-30016,2025-06-13,Downtown Manhattan,Takeaway,Smoothie,Beverage,2,6.99,13.98,4
+RST-30076,2025-06-13,Miami Beach,Dine-In,BBQ Ribs,Main,2,22.99,45.98,3
+RST-30656,2025-06-14,Lincoln Park,Dine-In,Fish & Chips,Main,1,17.99,17.99,3
+RST-30839,2025-06-14,Downtown Manhattan,Delivery,Smoothie,Beverage,2,6.99,13.98,4
+RST-30679,2025-06-15,Downtown Manhattan,Takeaway,Iced Coffee,Beverage,1,5.99,5.99,2
+RST-30426,2025-06-15,Austin Downtown,Delivery,Chocolate Lava Cake,Dessert,3,11.99,35.97,4
+RST-30294,2025-06-15,Midtown East,Delivery,Burger Deluxe,Main,2,15.99,31.98,4
+RST-30418,2025-06-16,Coral Gables,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,4
+RST-30874,2025-06-16,Austin South Congress,Dine-In,Craft Beer,Beverage,1,7.99,7.99,3
+RST-30196,2025-06-17,Upper West Side,Delivery,Ice Cream Sundae,Dessert,3,7.99,23.97,4
+RST-30121,2025-06-18,Lincoln Park,Dine-In,House Wine,Beverage,2,9.99,19.98,5
+RST-30180,2025-06-19,Brooklyn Heights,Dine-In,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30342,2025-06-20,Midtown East,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30111,2025-06-21,Austin South Congress,Delivery,Mushroom Risotto,Main,1,16.99,16.99,3
+RST-30091,2025-06-22,Austin South Congress,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30255,2025-06-22,Coral Gables,Delivery,Iced Coffee,Beverage,1,5.99,5.99,5
+RST-30574,2025-06-22,Austin Downtown,Dine-In,Pasta Primavera,Main,1,14.99,14.99,1
+RST-30793,2025-06-22,Brooklyn Heights,Dine-In,Bruschetta,Appetizer,1,11.99,11.99,5
+RST-30794,2025-06-23,Coral Gables,Dine-In,Pasta Primavera,Main,3,14.99,44.97,5
+RST-30843,2025-06-25,Downtown Manhattan,Delivery,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30680,2025-06-27,Miami Beach,Delivery,Spring Rolls,Appetizer,4,9.99,39.96,5
+RST-30266,2025-06-27,Lincoln Park,Delivery,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30430,2025-06-28,Austin South Congress,Delivery,Fish & Chips,Main,3,17.99,53.97,5
+RST-30981,2025-06-28,Downtown Manhattan,Delivery,Mushroom Risotto,Main,3,16.99,50.97,5
+RST-30141,2025-06-29,Upper West Side,Takeaway,Buffalo Wings,Appetizer,1,14.99,14.99,5
+RST-30299,2025-06-29,Downtown Manhattan,Dine-In,BBQ Ribs,Main,3,22.99,68.97,4
+RST-30493,2025-06-29,Austin Downtown,Dine-In,Iced Coffee,Beverage,2,5.99,11.98,4
+RST-30844,2025-07-01,Lincoln Park,Delivery,Caesar Salad,Appetizer,1,12.99,12.99,3
+RST-30024,2025-07-01,Upper West Side,Takeaway,Craft Beer,Beverage,1,7.99,7.99,5
+RST-30953,2025-07-02,Austin Downtown,Takeaway,Buffalo Wings,Appetizer,2,14.99,29.98,3
+RST-30624,2025-07-04,Austin South Congress,Takeaway,Bruschetta,Appetizer,1,11.99,11.99,3
+RST-30005,2025-07-05,Austin South Congress,Dine-In,Craft Beer,Beverage,1,7.99,7.99,3
+RST-30355,2025-07-05,Midtown East,Delivery,Soup of the Day,Appetizer,2,8.99,17.98,3
+RST-30873,2025-07-05,Austin Downtown,Delivery,Spring Rolls,Appetizer,2,9.99,19.98,5
+RST-30523,2025-07-05,Downtown Manhattan,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,3
+RST-30480,2025-07-07,Downtown Manhattan,Delivery,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30992,2025-07-07,Midtown East,Takeaway,Burger Deluxe,Main,3,15.99,47.97,4
+RST-30186,2025-07-08,Brooklyn Heights,Takeaway,Fish & Chips,Main,2,17.99,35.98,4
+RST-30021,2025-07-09,Lincoln Park,Delivery,Grilled Salmon,Main,2,24.99,49.98,5
+RST-30727,2025-07-09,Midtown East,Delivery,Buffalo Wings,Appetizer,1,14.99,14.99,5
+RST-30094,2025-07-10,Miami Beach,Delivery,Burger Deluxe,Main,2,15.99,31.98,5
+RST-30218,2025-07-11,Brooklyn Heights,Dine-In,Fish & Chips,Main,2,17.99,35.98,3
+RST-30081,2025-07-13,Miami Beach,Delivery,Spring Rolls,Appetizer,1,9.99,9.99,3
+RST-30321,2025-07-13,Downtown Manhattan,Dine-In,House Wine,Beverage,4,9.99,39.96,4
+RST-30028,2025-07-17,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,5
+RST-30352,2025-07-18,Miami Beach,Delivery,Mozzarella Sticks,Appetizer,4,10.99,43.96,4
+RST-30566,2025-07-19,Lincoln Park,Takeaway,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30534,2025-07-20,Austin South Congress,Takeaway,Iced Coffee,Beverage,2,5.99,11.98,5
+RST-30763,2025-07-21,Austin Downtown,Dine-In,Fish & Chips,Main,1,17.99,17.99,4
+RST-30365,2025-07-24,Miami Beach,Takeaway,Fish & Chips,Main,1,17.99,17.99,4
+RST-30908,2025-07-25,Downtown Manhattan,Dine-In,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30272,2025-07-26,Austin Downtown,Takeaway,Cheesecake,Dessert,3,10.99,32.97,4
+RST-30948,2025-07-26,Brooklyn Heights,Takeaway,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30862,2025-07-26,Chicago Loop,Takeaway,House Wine,Beverage,1,9.99,9.99,4
+RST-30170,2025-07-27,Lincoln Park,Dine-In,Tiramisu,Dessert,2,9.99,19.98,5
+RST-30640,2025-07-27,Downtown Manhattan,Dine-In,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30550,2025-07-27,Austin South Congress,Delivery,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30734,2025-07-30,Austin South Congress,Takeaway,Burger Deluxe,Main,2,15.99,31.98,5
+RST-30957,2025-08-01,Miami Beach,Dine-In,Grilled Salmon,Main,4,24.99,99.96,3
+RST-30903,2025-08-01,Austin Downtown,Takeaway,Fish & Chips,Main,1,17.99,17.99,2
+RST-30775,2025-08-02,Downtown Manhattan,Delivery,Ice Cream Sundae,Dessert,2,7.99,15.98,5
+RST-30106,2025-08-03,Austin South Congress,Takeaway,Spring Rolls,Appetizer,1,9.99,9.99,5
+RST-30327,2025-08-03,Coral Gables,Dine-In,Mozzarella Sticks,Appetizer,2,10.99,21.98,3
+RST-30811,2025-08-05,Chicago Loop,Takeaway,Mushroom Risotto,Main,3,16.99,50.97,5
+RST-30469,2025-08-05,Downtown Manhattan,Delivery,Grilled Salmon,Main,2,24.99,49.98,5
+RST-30600,2025-08-05,Midtown East,Dine-In,Mushroom Risotto,Main,3,16.99,50.97,4
+RST-30305,2025-08-08,Midtown East,Dine-In,House Wine,Beverage,1,9.99,9.99,4
+RST-30415,2025-08-08,Lincoln Park,Delivery,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30690,2025-08-09,Downtown Manhattan,Takeaway,House Wine,Beverage,2,9.99,19.98,5
+RST-30582,2025-08-10,Austin Downtown,Dine-In,Mozzarella Sticks,Appetizer,1,10.99,10.99,5
+RST-30542,2025-08-10,Lincoln Park,Delivery,Grilled Salmon,Main,2,24.99,49.98,4
+RST-30509,2025-08-13,Downtown Manhattan,Delivery,Iced Coffee,Beverage,2,5.99,11.98,5
+RST-30425,2025-08-15,Coral Gables,Dine-In,Craft Beer,Beverage,1,7.99,7.99,1
+RST-30396,2025-08-15,Upper West Side,Takeaway,Mushroom Risotto,Main,3,16.99,50.97,4
+RST-30040,2025-08-16,Austin South Congress,Takeaway,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30359,2025-08-16,Coral Gables,Takeaway,Mushroom Risotto,Main,3,16.99,50.97,2
+RST-30226,2025-08-16,Coral Gables,Delivery,Craft Beer,Beverage,1,7.99,7.99,4
+RST-30427,2025-08-17,Austin Downtown,Takeaway,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30162,2025-08-18,Lincoln Park,Delivery,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30744,2025-08-19,Coral Gables,Delivery,BBQ Ribs,Main,1,22.99,22.99,5
+RST-30153,2025-08-20,Downtown Manhattan,Delivery,Ice Cream Sundae,Dessert,1,7.99,7.99,3
+RST-30852,2025-08-21,Miami Beach,Delivery,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30450,2025-08-22,Austin Downtown,Dine-In,BBQ Ribs,Main,4,22.99,91.96,4
+RST-30688,2025-08-23,Coral Gables,Dine-In,Fish & Chips,Main,1,17.99,17.99,3
+RST-30409,2025-08-23,Downtown Manhattan,Dine-In,Caesar Salad,Appetizer,3,12.99,38.97,5
+RST-30999,2025-08-24,Midtown East,Dine-In,Apple Pie,Dessert,2,8.99,17.98,5
+RST-30750,2025-08-25,Chicago Loop,Dine-In,Tiramisu,Dessert,1,9.99,9.99,5
+RST-30689,2025-08-26,Austin Downtown,Delivery,Mozzarella Sticks,Appetizer,1,10.99,10.99,3
+RST-30779,2025-08-28,Austin South Congress,Dine-In,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30889,2025-08-28,Coral Gables,Dine-In,BBQ Ribs,Main,1,22.99,22.99,3
+RST-30292,2025-08-28,Chicago Loop,Delivery,Ice Cream Sundae,Dessert,1,7.99,7.99,2
+RST-30565,2025-08-29,Coral Gables,Takeaway,Spring Rolls,Appetizer,1,9.99,9.99,3
+RST-30501,2025-08-29,Midtown East,Takeaway,Sparkling Water,Beverage,4,3.49,13.96,5
+RST-30769,2025-08-29,Brooklyn Heights,Dine-In,BBQ Ribs,Main,2,22.99,45.98,3
+RST-30371,2025-08-30,Austin South Congress,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,5
+RST-30237,2025-08-30,Austin Downtown,Dine-In,Ice Cream Sundae,Dessert,2,7.99,15.98,3
+RST-30991,2025-08-30,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,5
+RST-30393,2025-08-30,Midtown East,Dine-In,Ice Cream Sundae,Dessert,1,7.99,7.99,3
+RST-30145,2025-08-31,Downtown Manhattan,Takeaway,NY Strip Steak,Main,4,32.99,131.96,5
+RST-30851,2025-09-01,Austin Downtown,Takeaway,Cheesecake,Dessert,2,10.99,21.98,4
+RST-30330,2025-09-02,Austin Downtown,Delivery,Chicken Parmesan,Main,2,18.99,37.98,5
+RST-30669,2025-09-02,Miami Beach,Dine-In,Tiramisu,Dessert,1,9.99,9.99,3
+RST-30691,2025-09-03,Lincoln Park,Takeaway,Ice Cream Sundae,Dessert,3,7.99,23.97,5
+RST-30391,2025-09-03,Austin Downtown,Takeaway,Tiramisu,Dessert,1,9.99,9.99,3
+RST-30439,2025-09-03,Miami Beach,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,5
+RST-30922,2025-09-04,Chicago Loop,Delivery,Buffalo Wings,Appetizer,1,14.99,14.99,4
+RST-30575,2025-09-04,Midtown East,Dine-In,Iced Coffee,Beverage,3,5.99,17.97,4
+RST-30931,2025-09-04,Miami Beach,Dine-In,NY Strip Steak,Main,1,32.99,32.99,3
+RST-30282,2025-09-05,Miami Beach,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30187,2025-09-05,Miami Beach,Delivery,Apple Pie,Dessert,4,8.99,35.96,3
+RST-30465,2025-09-05,Lincoln Park,Takeaway,Fresh Lemonade,Beverage,2,4.99,9.98,4
+RST-30818,2025-09-06,Austin South Congress,Dine-In,Fish & Chips,Main,2,17.99,35.98,4
+RST-30562,2025-09-06,Brooklyn Heights,Takeaway,Chocolate Lava Cake,Dessert,1,11.99,11.99,2
+RST-30429,2025-09-06,Austin South Congress,Takeaway,Sparkling Water,Beverage,2,3.49,6.98,4
+RST-30347,2025-09-06,Lincoln Park,Dine-In,Fish & Chips,Main,2,17.99,35.98,3
+RST-30589,2025-09-07,Downtown Manhattan,Dine-In,Ice Cream Sundae,Dessert,4,7.99,31.96,5
+RST-30946,2025-09-07,Austin Downtown,Takeaway,Ice Cream Sundae,Dessert,1,7.99,7.99,5
+RST-30864,2025-09-07,Miami Beach,Dine-In,Pasta Primavera,Main,2,14.99,29.98,4
+RST-30051,2025-09-08,Austin Downtown,Dine-In,House Wine,Beverage,1,9.99,9.99,5
+RST-30604,2025-09-08,Brooklyn Heights,Takeaway,Fish & Chips,Main,2,17.99,35.98,5
+RST-30684,2025-09-09,Midtown East,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30034,2025-09-10,Lincoln Park,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,4
+RST-30850,2025-09-11,Coral Gables,Delivery,BBQ Ribs,Main,2,22.99,45.98,3
+RST-30757,2025-09-12,Lincoln Park,Delivery,Pasta Primavera,Main,2,14.99,29.98,4
+RST-30884,2025-09-13,Austin Downtown,Takeaway,NY Strip Steak,Main,3,32.99,98.97,3
+RST-30955,2025-09-14,Lincoln Park,Dine-In,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30974,2025-09-14,Chicago Loop,Delivery,Soup of the Day,Appetizer,3,8.99,26.97,3
+RST-30797,2025-09-15,Austin South Congress,Takeaway,Mozzarella Sticks,Appetizer,4,10.99,43.96,3
+RST-30150,2025-09-19,Austin South Congress,Dine-In,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30667,2025-09-19,Downtown Manhattan,Takeaway,Fresh Lemonade,Beverage,4,4.99,19.96,4
+RST-30715,2025-09-19,Midtown East,Dine-In,Craft Beer,Beverage,1,7.99,7.99,5
+RST-30747,2025-09-20,Midtown East,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,2
+RST-30634,2025-09-20,Downtown Manhattan,Delivery,Fresh Lemonade,Beverage,2,4.99,9.98,5
+RST-30641,2025-09-20,Austin South Congress,Dine-In,Fresh Lemonade,Beverage,2,4.99,9.98,4
+RST-30192,2025-09-21,Chicago Loop,Dine-In,Mushroom Risotto,Main,3,16.99,50.97,3
+RST-30847,2025-09-22,Midtown East,Dine-In,Fresh Lemonade,Beverage,2,4.99,9.98,4
+RST-30390,2025-09-22,Brooklyn Heights,Dine-In,Grilled Salmon,Main,2,24.99,49.98,3
+RST-30503,2025-09-22,Coral Gables,Takeaway,Apple Pie,Dessert,2,8.99,17.98,3
+RST-30951,2025-09-22,Downtown Manhattan,Dine-In,Mushroom Risotto,Main,2,16.99,33.98,4
+RST-30834,2025-09-23,Chicago Loop,Delivery,Burger Deluxe,Main,2,15.99,31.98,4
+RST-30798,2025-09-25,Coral Gables,Dine-In,Bruschetta,Appetizer,3,11.99,35.97,4
+RST-30090,2025-09-26,Downtown Manhattan,Dine-In,Craft Beer,Beverage,2,7.99,15.98,4
+RST-30647,2025-09-27,Chicago Loop,Dine-In,Smoothie,Beverage,3,6.99,20.97,3
+RST-30964,2025-09-28,Downtown Manhattan,Delivery,Burger Deluxe,Main,2,15.99,31.98,4
+RST-30502,2025-09-28,Upper West Side,Dine-In,Sparkling Water,Beverage,1,3.49,3.49,4
+RST-30837,2025-09-28,Austin Downtown,Dine-In,Fish & Chips,Main,1,17.99,17.99,5
+RST-30280,2025-09-28,Coral Gables,Delivery,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30626,2025-09-29,Austin South Congress,Delivery,Smoothie,Beverage,2,6.99,13.98,3
+RST-30456,2025-09-30,Austin Downtown,Delivery,Fresh Lemonade,Beverage,3,4.99,14.97,5
+RST-30602,2025-09-30,Coral Gables,Delivery,Burger Deluxe,Main,1,15.99,15.99,1
+RST-30584,2025-10-01,Brooklyn Heights,Dine-In,Grilled Salmon,Main,2,24.99,49.98,1
+RST-30585,2025-10-01,Lincoln Park,Takeaway,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30318,2025-10-02,Austin Downtown,Takeaway,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30925,2025-10-03,Chicago Loop,Takeaway,Apple Pie,Dessert,2,8.99,17.98,4
+RST-30157,2025-10-04,Chicago Loop,Dine-In,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30438,2025-10-04,Austin Downtown,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,3
+RST-30547,2025-10-04,Downtown Manhattan,Dine-In,Caesar Salad,Appetizer,2,12.99,25.98,5
+RST-30950,2025-10-04,Austin South Congress,Delivery,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30238,2025-10-05,Chicago Loop,Takeaway,Cheesecake,Dessert,3,10.99,32.97,4
+RST-30135,2025-10-06,Austin South Congress,Delivery,Bruschetta,Appetizer,1,11.99,11.99,4
+RST-30840,2025-10-07,Lincoln Park,Dine-In,NY Strip Steak,Main,3,32.99,98.97,4
+RST-30730,2025-10-08,Austin Downtown,Delivery,Fresh Lemonade,Beverage,2,4.99,9.98,2
+RST-30267,2025-10-09,Upper West Side,Takeaway,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30256,2025-10-10,Austin South Congress,Delivery,Cheesecake,Dessert,3,10.99,32.97,3
+RST-30881,2025-10-11,Austin South Congress,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,4
+RST-30941,2025-10-11,Coral Gables,Dine-In,Fish & Chips,Main,2,17.99,35.98,3
+RST-30673,2025-10-11,Lincoln Park,Takeaway,Apple Pie,Dessert,3,8.99,26.97,3
+RST-30802,2025-10-11,Chicago Loop,Dine-In,Craft Beer,Beverage,1,7.99,7.99,3
+RST-30079,2025-10-12,Austin South Congress,Dine-In,Grilled Salmon,Main,1,24.99,24.99,3
+RST-30270,2025-10-12,Brooklyn Heights,Delivery,Chocolate Lava Cake,Dessert,1,11.99,11.99,3
+RST-30462,2025-10-12,Lincoln Park,Takeaway,BBQ Ribs,Main,1,22.99,22.99,4
+RST-30405,2025-10-12,Brooklyn Heights,Dine-In,Sparkling Water,Beverage,2,3.49,6.98,5
+RST-30968,2025-10-12,Upper West Side,Takeaway,Caesar Salad,Appetizer,1,12.99,12.99,4
+RST-30102,2025-10-12,Austin Downtown,Takeaway,Grilled Salmon,Main,1,24.99,24.99,5
+RST-30093,2025-10-13,Lincoln Park,Delivery,Buffalo Wings,Appetizer,2,14.99,29.98,4
+RST-30472,2025-10-15,Coral Gables,Delivery,Mushroom Risotto,Main,3,16.99,50.97,4
+RST-30375,2025-10-15,Lincoln Park,Dine-In,Fish & Chips,Main,2,17.99,35.98,4
+RST-30758,2025-10-16,Brooklyn Heights,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,4
+RST-30360,2025-10-19,Miami Beach,Takeaway,Burger Deluxe,Main,3,15.99,47.97,4
+RST-30813,2025-10-19,Upper West Side,Delivery,Sparkling Water,Beverage,1,3.49,3.49,3
+RST-30635,2025-10-20,Downtown Manhattan,Takeaway,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30581,2025-10-21,Midtown East,Takeaway,NY Strip Steak,Main,3,32.99,98.97,5
+RST-30618,2025-10-21,Midtown East,Takeaway,Spring Rolls,Appetizer,1,9.99,9.99,3
+RST-30231,2025-10-21,Coral Gables,Takeaway,Smoothie,Beverage,1,6.99,6.99,4
+RST-30400,2025-10-22,Brooklyn Heights,Takeaway,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30333,2025-10-23,Lincoln Park,Dine-In,Burger Deluxe,Main,1,15.99,15.99,4
+RST-30033,2025-10-23,Brooklyn Heights,Delivery,Burger Deluxe,Main,1,15.99,15.99,5
+RST-30164,2025-10-23,Midtown East,Dine-In,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30816,2025-10-24,Downtown Manhattan,Dine-In,Burger Deluxe,Main,2,15.99,31.98,5
+RST-30337,2025-10-24,Lincoln Park,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30320,2025-10-24,Coral Gables,Delivery,Soup of the Day,Appetizer,1,8.99,8.99,4
+RST-30859,2025-10-24,Miami Beach,Delivery,Burger Deluxe,Main,1,15.99,15.99,5
+RST-30907,2025-10-25,Downtown Manhattan,Takeaway,Burger Deluxe,Main,3,15.99,47.97,2
+RST-30956,2025-10-25,Lincoln Park,Delivery,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30893,2025-10-25,Austin Downtown,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,3
+RST-30579,2025-10-26,Austin South Congress,Dine-In,Burger Deluxe,Main,1,15.99,15.99,2
+RST-30701,2025-10-26,Brooklyn Heights,Dine-In,Grilled Salmon,Main,2,24.99,49.98,5
+RST-30212,2025-10-26,Miami Beach,Delivery,NY Strip Steak,Main,2,32.99,65.98,4
+RST-30055,2025-10-26,Chicago Loop,Delivery,Fish & Chips,Main,1,17.99,17.99,5
+RST-30655,2025-10-26,Miami Beach,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30142,2025-10-28,Brooklyn Heights,Takeaway,Bruschetta,Appetizer,2,11.99,23.98,3
+RST-30118,2025-10-29,Upper West Side,Delivery,Soup of the Day,Appetizer,2,8.99,17.98,5
+RST-30913,2025-10-29,Coral Gables,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,5
+RST-30871,2025-10-29,Miami Beach,Delivery,Mushroom Risotto,Main,1,16.99,16.99,4
+RST-30551,2025-10-30,Coral Gables,Takeaway,Tiramisu,Dessert,4,9.99,39.96,3
+RST-30252,2025-10-30,Miami Beach,Takeaway,Mozzarella Sticks,Appetizer,2,10.99,21.98,4
+RST-30214,2025-10-30,Miami Beach,Takeaway,Apple Pie,Dessert,1,8.99,8.99,4
+RST-30983,2025-10-31,Midtown East,Delivery,Ice Cream Sundae,Dessert,1,7.99,7.99,4
+RST-30990,2025-11-01,Austin South Congress,Delivery,Tiramisu,Dessert,1,9.99,9.99,3
+RST-30397,2025-11-02,Austin South Congress,Dine-In,Soup of the Day,Appetizer,1,8.99,8.99,4
+RST-30353,2025-11-02,Brooklyn Heights,Dine-In,Chicken Parmesan,Main,2,18.99,37.98,5
+RST-30043,2025-11-02,Coral Gables,Dine-In,Cheesecake,Dessert,1,10.99,10.99,4
+RST-30487,2025-11-04,Downtown Manhattan,Delivery,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30815,2025-11-04,Chicago Loop,Dine-In,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30122,2025-11-04,Austin Downtown,Takeaway,Cheesecake,Dessert,4,10.99,43.96,5
+RST-30965,2025-11-05,Austin South Congress,Delivery,Chocolate Lava Cake,Dessert,1,11.99,11.99,4
+RST-30586,2025-11-07,Upper West Side,Takeaway,NY Strip Steak,Main,2,32.99,65.98,5
+RST-30668,2025-11-07,Lincoln Park,Takeaway,BBQ Ribs,Main,1,22.99,22.99,3
+RST-30432,2025-11-08,Brooklyn Heights,Dine-In,Pasta Primavera,Main,1,14.99,14.99,4
+RST-30042,2025-11-09,Midtown East,Takeaway,Soup of the Day,Appetizer,1,8.99,8.99,5
+RST-30593,2025-11-09,Downtown Manhattan,Delivery,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30190,2025-11-09,Lincoln Park,Delivery,Craft Beer,Beverage,1,7.99,7.99,4
+RST-30097,2025-11-10,Coral Gables,Takeaway,Cheesecake,Dessert,1,10.99,10.99,1
+RST-30676,2025-11-10,Midtown East,Dine-In,Bruschetta,Appetizer,2,11.99,23.98,4
+RST-30621,2025-11-13,Austin Downtown,Takeaway,BBQ Ribs,Main,4,22.99,91.96,4
+RST-30317,2025-11-13,Downtown Manhattan,Delivery,NY Strip Steak,Main,3,32.99,98.97,2
+RST-30442,2025-11-13,Upper West Side,Delivery,NY Strip Steak,Main,2,32.99,65.98,3
+RST-30268,2025-11-14,Chicago Loop,Dine-In,Craft Beer,Beverage,4,7.99,31.96,4
+RST-30208,2025-11-14,Midtown East,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,5
+RST-30733,2025-11-15,Austin Downtown,Dine-In,Apple Pie,Dessert,1,8.99,8.99,5
+RST-30217,2025-11-15,Austin Downtown,Takeaway,Soup of the Day,Appetizer,2,8.99,17.98,4
+RST-30247,2025-11-16,Austin Downtown,Dine-In,Bruschetta,Appetizer,2,11.99,23.98,4
+RST-30497,2025-11-17,Brooklyn Heights,Delivery,Pasta Primavera,Main,1,14.99,14.99,4
+RST-30206,2025-11-17,Miami Beach,Takeaway,Ice Cream Sundae,Dessert,1,7.99,7.99,1
+RST-30543,2025-11-18,Coral Gables,Takeaway,Apple Pie,Dessert,4,8.99,35.96,5
+RST-30089,2025-11-18,Coral Gables,Takeaway,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30378,2025-11-18,Austin South Congress,Dine-In,Bruschetta,Appetizer,1,11.99,11.99,5
+RST-30195,2025-11-18,Lincoln Park,Takeaway,Chicken Parmesan,Main,2,18.99,37.98,4
+RST-30977,2025-11-21,Austin South Congress,Dine-In,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30008,2025-11-22,Downtown Manhattan,Takeaway,Mushroom Risotto,Main,2,16.99,33.98,4
+RST-30599,2025-11-24,Coral Gables,Dine-In,Smoothie,Beverage,3,6.99,20.97,2
+RST-30833,2025-11-24,Austin South Congress,Delivery,Mozzarella Sticks,Appetizer,2,10.99,21.98,3
+RST-30335,2025-11-25,Brooklyn Heights,Delivery,Buffalo Wings,Appetizer,1,14.99,14.99,3
+RST-30919,2025-11-28,Austin South Congress,Dine-In,Fish & Chips,Main,3,17.99,53.97,4
+RST-30084,2025-11-28,Miami Beach,Delivery,House Wine,Beverage,1,9.99,9.99,3
+RST-30307,2025-11-28,Upper West Side,Delivery,Chicken Parmesan,Main,1,18.99,18.99,5
+RST-30638,2025-11-29,Austin Downtown,Dine-In,House Wine,Beverage,3,9.99,29.97,5
+RST-30248,2025-11-29,Lincoln Park,Delivery,Spring Rolls,Appetizer,3,9.99,29.97,3
+RST-30386,2025-11-29,Downtown Manhattan,Delivery,Iced Coffee,Beverage,1,5.99,5.99,5
+RST-30755,2025-12-01,Downtown Manhattan,Dine-In,Fish & Chips,Main,1,17.99,17.99,5
+RST-30660,2025-12-02,Coral Gables,Dine-In,Tiramisu,Dessert,1,9.99,9.99,2
+RST-30929,2025-12-05,Brooklyn Heights,Delivery,Cheesecake,Dessert,1,10.99,10.99,2
+RST-30152,2025-12-05,Chicago Loop,Delivery,Grilled Salmon,Main,3,24.99,74.97,5
+RST-30766,2025-12-06,Austin Downtown,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,2
+RST-30379,2025-12-06,Brooklyn Heights,Delivery,BBQ Ribs,Main,2,22.99,45.98,5
+RST-30015,2025-12-07,Lincoln Park,Takeaway,BBQ Ribs,Main,4,22.99,91.96,4
+RST-30870,2025-12-07,Chicago Loop,Delivery,Chicken Parmesan,Main,2,18.99,37.98,3
+RST-30987,2025-12-08,Brooklyn Heights,Takeaway,NY Strip Steak,Main,1,32.99,32.99,5
+RST-30546,2025-12-08,Downtown Manhattan,Dine-In,Smoothie,Beverage,1,6.99,6.99,5
+RST-30683,2025-12-09,Miami Beach,Dine-In,Caesar Salad,Appetizer,2,12.99,25.98,5
+RST-30777,2025-12-10,Brooklyn Heights,Dine-In,BBQ Ribs,Main,2,22.99,45.98,3
+RST-30563,2025-12-10,Downtown Manhattan,Takeaway,Soup of the Day,Appetizer,3,8.99,26.97,4
+RST-30910,2025-12-11,Downtown Manhattan,Delivery,Cheesecake,Dessert,1,10.99,10.99,3
+RST-30995,2025-12-12,Miami Beach,Dine-In,Chicken Parmesan,Main,1,18.99,18.99,4
+RST-30737,2025-12-13,Miami Beach,Delivery,BBQ Ribs,Main,3,22.99,68.97,5
+RST-30302,2025-12-15,Miami Beach,Dine-In,Spring Rolls,Appetizer,2,9.99,19.98,2
+RST-30274,2025-12-15,Austin South Congress,Dine-In,Pasta Primavera,Main,1,14.99,14.99,4
+RST-30858,2025-12-19,Chicago Loop,Delivery,Mozzarella Sticks,Appetizer,1,10.99,10.99,4
+RST-30370,2025-12-19,Miami Beach,Delivery,Sparkling Water,Beverage,1,3.49,3.49,5
+RST-30249,2025-12-19,Miami Beach,Delivery,Tiramisu,Dessert,1,9.99,9.99,5
+RST-30368,2025-12-20,Coral Gables,Takeaway,Fish & Chips,Main,2,17.99,35.98,3
+RST-30967,2025-12-21,Downtown Manhattan,Dine-In,Buffalo Wings,Appetizer,1,14.99,14.99,3
+RST-30784,2025-12-21,Miami Beach,Dine-In,Pasta Primavera,Main,1,14.99,14.99,5
+RST-30742,2025-12-23,Midtown East,Dine-In,Fresh Lemonade,Beverage,1,4.99,4.99,5
+RST-30810,2025-12-26,Upper West Side,Delivery,Spring Rolls,Appetizer,2,9.99,19.98,5
+RST-30531,2025-12-27,Coral Gables,Dine-In,Grilled Salmon,Main,1,24.99,24.99,4
+RST-30057,2025-12-27,Midtown East,Dine-In,Soup of the Day,Appetizer,2,8.99,17.98,4
+RST-30300,2025-12-29,Austin South Congress,Dine-In,NY Strip Steak,Main,1,32.99,32.99,4
+RST-30303,2025-12-29,Midtown East,Delivery,Burger Deluxe,Main,2,15.99,31.98,3
+RST-30633,2025-12-30,Chicago Loop,Dine-In,Mushroom Risotto,Main,1,16.99,16.99,2
